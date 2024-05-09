@@ -8,7 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Mustaeen Ahmed",
   description: "Mustaeen Ahmed's Portfolio Website",
-  keywords: "Software Developer, Developer, Software, Engineer, Mustaeen, Mustaeen Ahmed, Portfolio",
+  keywords: "Software Developer, Developer, Software," + 
+    "Engineer, Mustaeen, Mustaeen Ahmed, Portfolio",
   icons: {
       icon: 'favicon.ico',
   },

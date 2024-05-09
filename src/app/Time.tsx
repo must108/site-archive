@@ -12,9 +12,11 @@ export default function Time() {
     const [time, setTime] = useState('--:-- --');
     
     useEffect(() => {
-        setTime(new Intl.DateTimeFormat("en-US", timeOptions).format(new Date()));
+        setTime(new Intl.DateTimeFormat(
+            "en-US", timeOptions).format(new Date()));
         const interval = setInterval(() => {
-            setTime(new Intl.DateTimeFormat("en-US", timeOptions).format(new Date()));
+            setTime(new Intl.DateTimeFormat(
+                "en-US", timeOptions).format(new Date()));
         }, 10_000);
         return () => clearInterval(interval)
     }, []);

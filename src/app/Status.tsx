@@ -18,22 +18,27 @@ const statusNames = {
 } as const;
 
 export async function Lanyard() {
-        const lanyardPromise = await fetch(`https://api.lanyard.rest/v1/users/${DISCORD_USER_ID}`);;
+        const lanyardPromise = await fetch(
+            `https://api.lanyard.rest/v1/users/${DISCORD_USER_ID}`);
         const lanyardData = await lanyardPromise.json();
 
         return <Status initData={lanyardData.data} />
 }
 
 function Status({ initData }: { readonly initData?: any}) {
-    const data = useLanyardWS(DISCORD_USER_ID, { initData } as Partial<Options>);
+    const data = useLanyardWS(DISCORD_USER_ID, 
+        { initData } as Partial<Options>);
     const status = data?.discord_status;
-    const color = data ? statusColors[status as keyof typeof statusColors ?? "offline"] : "bg-gray-500";
+    const color = data ? statusColors[
+        status as keyof typeof statusColors ?? "offline"] : "bg-gray-500";
 
     return (
-        <div className="flex max-w-full flex-row items-center gap-1 font-bold">
+        <div className="flex max-w-full flex-row items-center 
+            gap-1 font-bold">
             <div className={`h-3 w-3 shrink-0 rounded-full ${color}`} />
             <p className="w-full text-white">
-                {statusNames[status as keyof typeof statusNames] || "loading..."}
+                {statusNames[
+                    status as keyof typeof statusNames] || "loading..."}
             </p>
         </div>
     )
