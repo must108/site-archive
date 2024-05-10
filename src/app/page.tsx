@@ -7,7 +7,7 @@ export default function Home() {
     return (
     <>
         <div className="h-screen flex items-center 
-			justify-center flex-col">
+			justify-center flex-col overflow-hidden">
 			<p className="font-bold text-lg text-center text-white">
 				hello! i&apos;m</p>
 			<h1 className="text-4xl sm:text-5xl font-bold 
