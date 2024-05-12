@@ -1,4 +1,3 @@
-import Desc from "./components/Desc";
 import Title from "./components/Title";
 import ShowStatus from "./components/ShowStatus";
 import Buttons from "./components/Buttons";
