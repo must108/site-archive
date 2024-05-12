@@ -3,7 +3,7 @@ import { BsGithub, BsDiscord, BsLinkedin } from 'react-icons/bs';
 export default function Buttons() {
     return (
         <>
-            <div className="flex items-center justify-center gap-3">
+            <div className="flex gap-3">
 				<a href="/resume.pdf" target="_blank" 
 					className="cursor-pointer">
 					<svg className="bg-button-color p-2 rounded-lg 

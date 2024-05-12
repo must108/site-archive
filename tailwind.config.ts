@@ -17,6 +17,12 @@ const config: Config = {
         'black-1': '#09090B',
 				'button-color': '#222224',
 				'white': '#FFFFFF',
+        'github': '#222224',
+        'python': '#3572A5',
+        'typescript': '#3178C6',
+        'jupyter': '#DA5B0B',
+        'java': '#B07219',
+        'r': '#198CE7',
       }
     },
   },
