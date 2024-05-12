@@ -33,10 +33,10 @@ function Status({ initData }: { readonly initData?: any}) {
         status as keyof typeof statusColors ?? "offline"] : "bg-gray-500";
 
     return (
-        <div className="flex max-w-full flex-row items-center 
-            gap-1 font-bold">
+        <div className="flex flex-row items-center 
+            gap-1 font-bold text-center justify-center">
             <div className={`h-3 w-3 shrink-0 rounded-full ${color}`} />
-            <p className="w-full text-white">
+            <p className="text-white text-center">
                 {statusNames[
                     status as keyof typeof statusNames] || "loading..."}
             </p>

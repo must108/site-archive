@@ -23,7 +23,7 @@ export default function Time() {
 
     return (
         <>
-            <span className="w-full font-bold">
+            <span className="font-bold text-center">
                 <span>{time}</span>
             </span>
         </>
