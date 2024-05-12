@@ -11,7 +11,7 @@ export default function Home() {
         <div className="mx-1 sm:mx-0 h-[100svh] 
             flex items-center 
 			justify-center flex-col overflow-scroll
-            whitespace-normal">
+            whitespace-normal mb-10">
             <div className="h-[90%] max-w-1/2 px-4">
                 <Title />
                 <ShowStatus />
