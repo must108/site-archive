@@ -40,7 +40,7 @@ import {
     GrMysql
 } from 'react-icons/gr';
 
-import { IconGroup } from './Icongroup';
+import { Icons } from './Icongroup';
 import Matplotlib from './Matplotlib';
 
 export default function Tech() {
@@ -54,7 +54,7 @@ export default function Tech() {
             </p>
         <div className='flex gap-2'>
             <div className='w-1/2 text-white'>
-                <IconGroup title="languages">
+                <Icons title="languages">
                     <SiHtml5 size={24} title="HTML" />
                     <SiCss3 size={24} title="CSS" />
                     <SiJavascript size={24} title="JavaScript" />
@@ -64,18 +64,18 @@ export default function Tech() {
                     <FaJava size={24} title="Java" />
                     <SiPython size={24} title="Python" />
                     <FaRProject size={24} title="R" />
-                </IconGroup>
-                <IconGroup title="libraries">
+                </Icons>
+                <Icons title="libraries">
                     <SiNumpy size={24} title="NumPy" />
                     <Matplotlib title="Matplotlib" />
                     <SiDjango size={24} title="Django" />
                     <SiFlask size={24} title="Flask" />
                     <SiOpencv size={24} title="OpenCV" />
                     <SiPandas size={24} title="Pandas" />
-                </IconGroup>
+                </Icons>
             </div>
             <div className="w-1/2 text-white">
-                <IconGroup title="frameworks">
+                <Icons title="frameworks">
                         <FaReact size={24} />
                         <SiNextdotjs size={24} />
                         <SiAstro size={24} />
@@ -83,8 +83,8 @@ export default function Tech() {
                         <SiTailwindcss size={24} />
                         <SiExpress size={24} />
                         <SiBootstrap size={24} />
-                </IconGroup>
-                <IconGroup title="tools">
+                </Icons>
+                <Icons title="tools">
                     <SiGit size={24} title="Git" />
                     <BsGithub size={24} title="GitHub" />
                     <GrMysql size={24} title="MySQL" />
@@ -94,7 +94,7 @@ export default function Tech() {
                     <SiMongodb size={24} title="MongoDB" />
                     <SiFigma size={24} title="Figma" />
                     <SiVercel size={24} title="Vercel" />
-                </IconGroup>
+                </Icons>
             </div>
         </div>
         </div>

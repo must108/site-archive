@@ -1,5 +1,5 @@
 
-export function IconGroup({ children, title }: any) {
+export function Icons({ children, title }: any) {
 	return (
 		<div className="flex flex-col flex-wrap gap-y-2 pt-3">
 			<h2 className="text-md text-gray-600 dark:text-white">
