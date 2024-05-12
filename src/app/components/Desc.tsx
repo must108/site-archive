@@ -4,16 +4,14 @@ import { useState, useEffect } from 'react';
 
 export default function Desc() {
     const [showAbout, setShowAbout] = useState(false);
-    const about = "i'm a software engineer and " +
-    "computer science student studying at UCF. i'm extremely " +
-    "passionate about machine learning, data analytics, and " + 
-    "software development!"
 
     const handleAbout = () => {
         if(showAbout) {
             setShowAbout(false);
+            dispatchEvent(new CustomEvent('closeAbout'));
         } else {
             setShowAbout(true);
+            dispatchEvent(new CustomEvent('openAbout'));
         }
     }
 
