@@ -21,7 +21,8 @@ export default function About() {
                 target="_blank"
                 >
                     <span 
-                    className="link link-underline"
+                    className="link link-underline 
+                    font-bold"
                     >
                         UCF
                     </span>
