@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Time from './Time';
+import Desc from "./Desc";
 import { Lanyard } from "./Status";
 import { BsGithub, BsDiscord, BsLinkedin } from 'react-icons/bs';
 
@@ -64,6 +65,7 @@ export default function Home() {
 					</div>
 				</a>
 			</div>
+			<Desc />
 		</div>
     </>
     );
