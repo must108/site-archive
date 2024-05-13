@@ -1,3 +1,5 @@
+"use client";
+
 import {
     FaJava,
     FaReact,
