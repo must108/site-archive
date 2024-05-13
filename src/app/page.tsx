@@ -13,7 +13,7 @@ export default function Home() {
 			justify-center flex-col 
             overflow-scroll
             whitespace-normal mt-10 sm:mt-0">
-            <div className="h-[90%] max-w-1/2 px-4">
+            <div className="h-[90%] max-w-1/2 px-4 mt-10 sm:mt-0">
                 <Title />
                 <ShowStatus />
                 <Buttons />
