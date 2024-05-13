@@ -6,7 +6,6 @@ export default function Filler(){
         h-[100px] sm:h-0 
         select-none cursor-default
         ">
-            hello
         </div>
     )
 }

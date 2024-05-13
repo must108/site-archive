@@ -1,3 +1,4 @@
+"use client";
 
 export function Icons({ children, title }: any) {
 	return (
