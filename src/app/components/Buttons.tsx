@@ -29,7 +29,7 @@ export default function Buttons() {
 					</div>
 				</a>
 				<a 
-					href="https://discordid.netlify.app/?id=385903323666055178" 
+					href="https://discordapp.com/users/385903323666055178" 
 					target="_blank">
 					<div className="bg-button-color p-2 rounded-lg 
 						fill-current text-white hover:text-neutral-400 
