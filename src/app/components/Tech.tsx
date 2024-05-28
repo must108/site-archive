@@ -31,7 +31,8 @@ import {
     SiMongodb,
     SiPostgresql,
     SiFigma,
-    SiVercel
+    SiVercel,
+    SiVitest
 } from 'react-icons/si';
 
 import {
@@ -96,6 +97,7 @@ export default function Tech() {
                     <SiMongodb size={24} title="MongoDB" />
                     <SiFigma size={24} title="Figma" />
                     <SiVercel size={24} title="Vercel" />
+                    <SiVitest size={24} title="Vitest" />
                 </Icons>
             </div>
         </div>
