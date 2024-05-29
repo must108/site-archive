@@ -13,7 +13,8 @@ export default function Home() {
             flex items-center 
 			justify-center flex-col 
             overflow-scroll
-            whitespace-normal">
+            whitespace-normal
+            overflow-x-hidden">
             <div className="h-[90%] max-w-1/2 px-4">
                 <Title />
                 <ShowStatus />
