@@ -3,9 +3,9 @@ export default function Filler(){
     return (
         <div 
         className="
-        h-[100px] sm:h-0 
+        h-[100px] 
         select-none cursor-default
-        ">
+        ">  
         </div>
     )
 }
