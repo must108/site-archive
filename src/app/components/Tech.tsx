@@ -32,7 +32,8 @@ import {
     SiPostgresql,
     SiFigma,
     SiVercel,
-    SiVitest
+    SiVitest,
+    SiSupabase
 } from 'react-icons/si';
 
 import {
@@ -93,6 +94,7 @@ export default function Tech() {
                     <GrMysql size={24} title="MySQL" />
                     <SiPostgresql size={24} title="PostgreSQL" />
                     <SiPrisma size={24} title="Prisma" />
+                    <SiSupabase size={24} title="Supabase" />
                     <SiJupyter size={24} title="Jupyter Notebook" />
                     <SiMongodb size={24} title="MongoDB" />
                     <SiFigma size={24} title="Figma" />
