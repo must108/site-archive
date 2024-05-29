@@ -71,7 +71,7 @@ export default function Tech() {
                 </Icons>
                 <Icons title="libraries">
                     <SiNumpy size={24} title="NumPy" />
-                    <Matplotlib title="Matplotlib" />
+                    {/* <Matplotlib title="Matplotlib" /> */}
                     <SiDjango size={24} title="Django" />
                     <SiFlask size={24} title="Flask" />
                     <SiOpencv size={24} title="OpenCV" />
