@@ -3,7 +3,7 @@ export default function Matplotlib({title}: any) {
     return (
         <svg className="p-0" xmlns="http://www.w3.org/2000/svg" 
         width="25" height="25"  viewBox="0 0 180 180" 
-        stroke="black">
+        stroke="black" fill="#848485">
             <title>{title}</title>
             <g stroke-width="2" fill="#848485">
             <circle cx="90" cy="90" r="88" stroke="black" fill="#848485" />
@@ -20,5 +20,5 @@ export default function Matplotlib({title}: any) {
             <path fill="#000000" d="m90,90-10,45a46,46 0 0,0 18,0z"/>
             <path fill="#000000" d="m90,90 46,58a74,74 0 0,0 12-12z"/>
         </g></svg>
-    )
+    );
 }
