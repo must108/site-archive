@@ -49,7 +49,7 @@ import Matplotlib from './Matplotlib';
 
 export default function Tech() {
     return (
-        <div className="max-w-screen-sm pt-2 mb-20 sm:mb-0">
+        <div className="max-w-screen-sm pt-2 mb-20">
             <p 
             className="text-white font-bold 
             text-lg"
