@@ -2,7 +2,7 @@
 
 export default function About() {
     return (
-        <div className="max-w-screen-sm">
+        <section className="max-w-screen-sm">
             <p 
             className="text-white font-bold 
             text-lg pt-5"
@@ -32,6 +32,6 @@ export default function About() {
                 data analytics, and
                 software development!
             </p>
-        </div>
+        </section>
     )
 }

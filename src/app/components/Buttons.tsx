@@ -4,7 +4,7 @@ import Resume from './ResumeSymbol';
 export default function Buttons() {
     return (
         <>
-            <div className="flex gap-3">
+            <nav className="flex gap-3">
 				<a href="/resume.pdf" target="_blank" 
 					className="cursor-pointer">
 					<Resume />
@@ -37,7 +37,7 @@ export default function Buttons() {
 						<BsDiscord />
 					</div>
 				</a>
-			</div>
+			</nav>
         </>
     )
 }

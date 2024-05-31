@@ -4,7 +4,7 @@ import Section from "./ProjectSection";
 
 export default function Projects() {
     return (
-        <div className="max-w-screen-sm">
+        <section className="max-w-screen-sm">
             <p 
             className="text-white font-bold 
             text-lg pt-5"
@@ -58,6 +58,6 @@ export default function Projects() {
                     />
                 </div>
             </div>
-        </div>
+        </section>
     )
 }
