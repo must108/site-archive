@@ -2,7 +2,7 @@
 
 export default function Title() {
     return (
-        <div>
+        <header>
             <p className="font-bold text-md text-white">
 				hello! i&apos;m</p>
 			<h1 className="text-4xl sm:text-4xl font-bold 
@@ -10,6 +10,6 @@ export default function Title() {
 				bg-clip-text text-transparent">
 				mustaeen ahmed
 			</h1>
-        </div>
+        </header>
     )
 }

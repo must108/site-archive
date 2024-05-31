@@ -4,7 +4,7 @@ import Time from "./Time";
 export default function ShowStatus() {
     return (
         <>
-            <div className="flex my-2">
+            <nav className="flex my-2">
 				<div className="flex w-full flex-row
 					gap-x-1 rounded-xl text-white text-sm 
 					whitespace-nowrap">
@@ -12,7 +12,7 @@ export default function ShowStatus() {
 					&mdash;
 					<Time />
 				</div>
-			</div>
+			</nav>
         </>
     )
 }
