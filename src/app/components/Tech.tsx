@@ -34,7 +34,8 @@ import {
     SiVercel,
     SiVitest,
     SiSupabase,
-    SiAmazons3
+    SiAmazons3,
+    SiScikitlearn
 } from 'react-icons/si';
 
 import {
@@ -71,6 +72,7 @@ export default function Tech() {
                         <FaRProject size={24} title="R" />
                     </Icons>
                     <Icons title="libraries">
+                        <SiScikitlearn size={24} title="scikit-learn" />
                         <SiNumpy size={24} title="NumPy" />
                         {/* <Matplotlib title="Matplotlib" /> */}
                         <SiDjango size={24} title="Django" />
