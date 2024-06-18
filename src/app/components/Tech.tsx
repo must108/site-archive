@@ -35,7 +35,9 @@ import {
     SiVitest,
     SiSupabase,
     SiAmazons3,
-    SiScikitlearn
+    SiScikitlearn,
+    SiTrpc,
+    SiGo,
 } from 'react-icons/si';
 
 import {
@@ -67,6 +69,7 @@ export default function Tech() {
                         <SiTypescript size={24} title="TypeScript" />
                         <SiC size={24} title="C" />
                         <SiCplusplus size={24} title="C++" />
+                        <SiGo size={24} title="Go" />
                         <FaJava size={24} title="Java" />
                         <SiPython size={24} title="Python" />
                         <FaRProject size={24} title="R" />
@@ -83,13 +86,14 @@ export default function Tech() {
                 </div>
                 <div className="w-1/2 text-white">
                     <Icons title="frameworks">
-                            <FaReact size={24} />
-                            <SiNextdotjs size={24} />
-                            <SiAstro size={24} />
-                            <SiNodedotjs size={24} />
-                            <SiTailwindcss size={24} />
-                            <SiExpress size={24} />
-                            <SiBootstrap size={24} />
+                            <FaReact size={24} title="React" />
+                            <SiNextdotjs size={24} title="Next.js" />
+                            <SiAstro size={24} title="Astro" />
+                            <SiNodedotjs size={24} title="Node.js" />
+                            <SiExpress size={24} title="Express.js" />
+                            <SiTailwindcss size={24} title="Tailwind CSS" />
+                            <SiTrpc size={24} title="tRPC" />
+                            <SiBootstrap size={24} title="Bootstrap" />
                     </Icons>
                     <Icons title="tools">
                         <SiGit size={24} title="Git" />

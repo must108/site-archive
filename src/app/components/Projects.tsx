@@ -14,9 +14,9 @@ export default function Projects() {
             <div className="flex mb-1 gap-3 pt-2">
                 <div className="w-1/2">
                     <Section 
-                        title="musicnotes" 
-                        link="https://github.com/must108/musicnotes"
-                        language="python" 
+                        title="naavis" 
+                        link="https://github.com/naavis-app/app"
+                        language="typescript" 
                     />
                     <Section 
                         title="naturalization-test"
