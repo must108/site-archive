@@ -38,6 +38,7 @@ import {
     SiScikitlearn,
     SiTrpc,
     SiGo,
+    SiPytorch,
 } from 'react-icons/si';
 
 import {
@@ -76,6 +77,7 @@ export default function Tech() {
                     </Icons>
                     <Icons title="libraries">
                         <SiScikitlearn size={24} title="scikit-learn" />
+                        <SiPytorch size={24} title="PyTorch" />
                         <SiNumpy size={24} title="NumPy" />
                         {/* <Matplotlib title="Matplotlib" /> */}
                         <SiDjango size={24} title="Django" />
