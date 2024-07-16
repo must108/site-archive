@@ -51,7 +51,7 @@ export default function RootLayout({
       <html lang="en">
       <body className={cn("mx-auto flex", 
         "min-h-screen max-w-screen-sm flex-col", 
-        "flex-col bg-[#09090B] overflow-hidden antialiased",
+        "flex-col bg-[#09090B] overflow-hidden",
         inter.className)}>
         <Navbar />
         <div className="flex-grow flex items-center justify-center

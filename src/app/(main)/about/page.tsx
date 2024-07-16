@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import AnimatedLink from "@/components/AnimatedLink";
+import Tech from "@/components/Tech";
 
 export const metadata: Metadata = {
     title: "About | Mustaeen Ahmed",
@@ -28,16 +29,18 @@ export const metadata: Metadata = {
     metadataBase: new URL('https://mustaeen.dev/about'),
   };
 
+
+
 export default function About() {
     return (
       <section className="max-w-screen-sm">
         <p 
         className="flex text-white font-bold mx-auto
-        text-3xl pb-5"
+        text-3xl pb-8"
         >
             about
         </p>
-        <div className="flex flex-col gap-8">
+        <div className="flex flex-col gap-10">
           <p 
           className="text-white
           text-md pt-2"
@@ -49,25 +52,26 @@ export default function About() {
               >
                 UCF
               </AnimatedLink>
-              . i current work as a software engineer at{" "}
+              . i currently work as a software engineer at{" "}
               <AnimatedLink href="https://www.darden.com/"
               >
-                darden
+                Darden
               </AnimatedLink>
               , where I work to automate critical processes to
-              expedite my team&apos;s workflow.
+              expedite our workflows.
           </p>
-          <p className="text-white text-md pt-2">
+          <p className="text-white text-md">
             i have a deep passion for several fields in computer science, including
             machine learning, data analytics, full-stack web/mobile development, and 
-            computer vision. these passions stem from a desire to learn and create, 
+            computer vision. these passions stem from a love of learning and creating, 
             and they thrive as there is always something new to learn in this field.
           </p> 
+          <p className="text-white text-md">
+            since i started working in this field, i&apos;ve
+            gained quite a few technical skills. here are some of them: 
+          </p>
         </div>
+        <Tech />
     </section>
     );
 }
-/* i&apos;m extremely
-              passionate about machine learning, 
-              data analytics, and
-              software development!*/
