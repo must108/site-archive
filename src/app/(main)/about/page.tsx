@@ -27,5 +27,5 @@ export const metadata: Metadata = {
   };
 
 export default function About() {
-    return <p className="text-white">wip</p>
+    return <p className="text-white">wip!</p>
 }
