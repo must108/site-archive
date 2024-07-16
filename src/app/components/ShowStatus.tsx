@@ -7,7 +7,7 @@ export default function ShowStatus() {
             <nav className="flex my-2">
 				<div className="flex w-full flex-row
 					gap-x-1 rounded-xl text-white text-sm 
-					whitespace-nowrap">
+					whitespace-nowrap justify-center">
                     <Lanyard />
 					&mdash;
 					<Time />

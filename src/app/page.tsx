@@ -15,14 +15,14 @@ export default function Home() {
             overflow-scroll
             whitespace-normal
             overflow-x-hidden">
-            <div className="h-[90%] max-w-1/2 px-4">
+            <div>
                 <Title />
                 <ShowStatus />
                 <Buttons />
-                <About />
+                {/* <About />
                 <Projects />
                 <Tech />
-                <Filler />
+                <Filler /> */}
             </div>
 		</div>
     </>
