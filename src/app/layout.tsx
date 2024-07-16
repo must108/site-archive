@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import type { Viewport } from 'next';
-import Navbar from "./components/Navbar";
+import Navbar from "../components/Navbar";
 import "./globals.css";
+import { cn } from "../utils/cn";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -47,13 +48,15 @@ export default function RootLayout({
   return (
     <>
       <html lang="en">
-      <body className={`
-        flex min-h-[100vh]
-        w-full flex-col 
-        ${inter.className} 
-        bg-black-1 overflow-hidden`}>
-        {<Navbar />}
-        {children}
+      <body className={cn("mx-auto flex", 
+        "min-h-screen max-w-screen-sm flex-col", 
+        "flex-col bg-[#09090B] overflow-hidden antialiased",
+        inter.className)}>
+        <Navbar />
+        <div className="flex-grow flex items-center justify-center
+        h-[100vh]">
+          {children}
+        </div>
         </body>
       </html>
     </>
