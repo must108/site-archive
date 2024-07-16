@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Mustaeen Ahmed",
-  description: "Mustaeen Ahmed is a software engineer and a student at UCF.",
+  description: "Mustaeen Ahmed is a software engineer and a student at the University of Central Florida.",
   keywords: [ "Software Developer",
               "Developer",
               "Software",
@@ -18,6 +18,7 @@ export const metadata: Metadata = {
               "Mustaeen Ahmed",
               "Portfolio",
               "UCF",
+              "University of Central Florida",
   ],
   icons: {
       icon: 'favicon.ico',
@@ -26,7 +27,7 @@ export const metadata: Metadata = {
     type: "website",
     title: "Mustaeen Ahmed",
     description:
-      "Mustaeen Ahmed is a software engineer and a student at UCF.",
+      "Mustaeen Ahmed is a software engineer and a student at the University of Central Florida.",
     url: "https://mustaeen.dev",
     images: [{ url: "opengraph-image.jpg"}]
   },
