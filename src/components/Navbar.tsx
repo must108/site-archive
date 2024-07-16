@@ -1,7 +1,6 @@
 "use client";
 
 import NavLink from "./NavLink";
-import { cn } from "@/utils/cn";
 
 export default function Navbar() {
 

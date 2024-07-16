@@ -10,7 +10,7 @@ import { cn } from "@/utils/cn";
 export default function Home() {
     return (
     <>
-        <div className={cn(
+        <section className={cn(
             "mx-1 sm:mx-0", 
             "flex justify-center",
             "flex-col overflow-scroll",
@@ -42,7 +42,7 @@ export default function Home() {
                 <Tech />
                 <Filler /> */}
             </div>
-		</div>
+		</section>
     </>
     );
 }
