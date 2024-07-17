@@ -4,24 +4,24 @@ import Metadata from "@/components/Metadata";
 import { useEffect } from "react";
 import AnimatedLink from "@/components/AnimatedLink";
 
+const work = [
+  {
+    name: "darden",
+    role: "software engineer",
+    link: "https://www.darden.com/",
+  },
+  {
+    name: "association for computing machinery",
+    role: "software developer",
+    link: "https://www.acmucf.org/"
+  },
+];
+
 export default function Work() {
     useEffect(() => {
       const page = document.getElementById("page");
       page?.classList.remove("page-transition");
     }, []);
-
-    const work = [
-        {
-          name: "darden",
-          role: "software engineer",
-          link: "https://www.darden.com/",
-        },
-        {
-          name: "association for computing machinery",
-          role: "software developer",
-          link: "https://www.acmucf.org/"
-        },
-    ]
 
     return (
       <section id="page" className="max-w-screen-sm page-transition p-4">
@@ -40,7 +40,7 @@ export default function Work() {
                   className="text-white text-xl font-medium">
                     {place.name}
                   </AnimatedLink>
-                  <p className="text-white text-xs text-gray-400"
+                  <p className="text-white text-xs text-[#999]"
                   >{place.role}</p>
                 </div>
               </div>

@@ -47,7 +47,8 @@ export default function About() {
              </p> 
              <p className="text-white text-md">
                since i started working in this field, i&apos;ve
-               gained quite a few technical skills. here are some of them: 
+               gained a wide range of technical skills, from time-tested
+               to cutting-edge technologies. here are some of them: 
              </p>
            </div>
            <Tech />
