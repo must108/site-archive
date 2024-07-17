@@ -1,16 +1,22 @@
+"use client";
+
 import Buttons from "../../components/Buttons";
 import { Lanyard } from "@/components/Status";
 import Time from "@/components/Time";
-import About from "../../components/About";
 import Projects from "../../components/Projects";
-import Tech from "../../components/Tech";
-import Filler from "../../components/Filler";
 import { cn } from "@/utils/cn";
+import { useEffect } from "react";
 
 export default function Home() {
+    useEffect(() => {
+        const page = document.getElementById("page");
+        page?.classList.remove('page-transition');
+    }, []);
+
     return (
     <>
-        <section className={cn(
+        <section
+            className={cn(
             "mx-1 sm:mx-0", 
             "flex justify-center",
             "flex-col overflow-scroll",
@@ -18,7 +24,7 @@ export default function Home() {
             "overflow-x-hidden",
             "h-[65vh]"
         )}>
-            <div>
+            <div id="page" className="page-transition">
                 <div>
                     <p className="font-bold text-md text-white text-center">
                         hello! i&apos;m
