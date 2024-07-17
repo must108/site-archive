@@ -12,7 +12,7 @@ export default function About() {
   }, []);
 
     return (
-       <section className="max-w-screen-sm p-4 page-transition" id="page">
+       <section className="max-w-screen-sm p-4 page-transition mb-40 sm:mb-0" id="page">
          <Metadata title="About" description="Mustaeen Ahmed is a software engineer and a student at the University of Central Florida." />
            <p 
            className="flex text-white font-bold mx-auto
