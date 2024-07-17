@@ -55,12 +55,6 @@ import Matplotlib from './Matplotlib';
 export default function Tech() {
     return (
         <section className="max-w-screen-sm pt-8">
-            {/* <p 
-            className="text-white font-bold 
-            text-lg"
-            >
-                tech
-            </p> */}
             <div className='flex gap-10'>
                 <div className='w-1/2 text-white flex flex-col gap-2'>
                     <Icons title="languages">

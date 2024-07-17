@@ -24,7 +24,7 @@ export default function Work() {
     }, []);
 
     return (
-      <section id="page" className="max-w-screen-sm page-transition p-4">
+      <section id="page" className="max-w-screen-sm page-transition p-4 mb-40 sm:mb-0">
         <Metadata title="Work" description="Mustaeen Ahmed's work experience as a software engineer." />
         <h1
         className="flex text-white font-bold mx-auto text-3xl pb-5"
