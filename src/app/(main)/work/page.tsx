@@ -20,7 +20,7 @@ export default function Work() {
           name: "association for computing machinery",
           role: "software developer",
           link: "https://www.acmucf.org/"
-        }
+        },
     ]
 
     return (

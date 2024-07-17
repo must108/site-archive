@@ -45,10 +45,6 @@ export default function Home() {
                     </div>
 			    </div>
                 <Buttons />
-                {/* <About />
-                <Projects />
-                <Tech />
-                <Filler /> */}
             </div>
 		</section>
     </>
