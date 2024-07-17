@@ -1,10 +1,11 @@
 import { BsGithub, BsDiscord, BsLinkedin } from 'react-icons/bs';
 import Resume from './ResumeSymbol';
+import { IconType } from 'react-icons';
 
 export default function Buttons() {
     return (
         <>
-            <nav className="flex gap-3">
+            <div className="flex justify-center gap-3">
 				<a href="/resume.pdf" target="_blank" 
 					className="cursor-pointer">
 					<Resume />
@@ -37,7 +38,7 @@ export default function Buttons() {
 						<BsDiscord />
 					</div>
 				</a>
-			</nav>
+			</div>
         </>
     )
 }

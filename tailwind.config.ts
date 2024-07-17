@@ -23,6 +23,9 @@ const config: Config = {
         'jupyter': '#DA5B0B',
         'java': '#B07219',
         'r': '#198CE7',
+      },
+      screens: {
+        'tech': { 'raw': '(min-width: 600px)' },
       }
     },
   },

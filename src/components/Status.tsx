@@ -1,6 +1,6 @@
 "use client"
 
-import { DISCORD_USER_ID } from "../lib/constants";
+import { DISCORD_USER_ID } from "../utils/constants";
 import { Options, useLanyardWS } from "use-lanyard";
 
 const statusColors = {

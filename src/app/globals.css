@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+#page {
+  transition-property: opacity, background, transform, filter;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.3s;
+}
+
 .link-underline {
     border-bottom-width: 0;
     background-image: linear-gradient(transparent, transparent),
@@ -22,3 +28,18 @@
     background-size: 100% 2px;
     background-position: 0 100%;
   }
+
+.still-underline {
+  background-size: 100% 2px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.2s ease-in-out;
+  text-underline-offset: 9px;
+  border-bottom-width: 0;
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(#fff, #fff);
+}
+
+.page-transition {
+  opacity: 0;
+}

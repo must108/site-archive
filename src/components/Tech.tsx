@@ -54,15 +54,15 @@ import Matplotlib from './Matplotlib';
 
 export default function Tech() {
     return (
-        <section className="max-w-screen-sm pt-2 mb-20">
-            <p 
+        <section className="max-w-screen-sm pt-8">
+            {/* <p 
             className="text-white font-bold 
             text-lg"
             >
                 tech
-            </p>
-            <div className='flex gap-2'>
-                <div className='w-1/2 text-white'>
+            </p> */}
+            <div className='flex gap-10'>
+                <div className='w-1/2 text-white flex flex-col gap-2'>
                     <Icons title="languages">
                         <SiHtml5 size={24} title="HTML" />
                         <SiCss3 size={24} title="CSS" />
@@ -75,7 +75,7 @@ export default function Tech() {
                         <SiPython size={24} title="Python" />
                         <FaRProject size={24} title="R" />
                     </Icons>
-                    <Icons title="libraries">
+                    <Icons title="packages">
                         <SiScikitlearn size={24} title="scikit-learn" />
                         <SiPytorch size={24} title="PyTorch" />
                         <SiNumpy size={24} title="NumPy" />
@@ -86,7 +86,7 @@ export default function Tech() {
                         <SiPandas size={24} title="Pandas" />
                     </Icons>
                 </div>
-                <div className="w-1/2 text-white">
+                <div className="w-1/2 text-white flex flex-col gap-2 tech:gap-10">
                     <Icons title="frameworks">
                             <FaReact size={24} title="React" />
                             <SiNextdotjs size={24} title="Next.js" />
