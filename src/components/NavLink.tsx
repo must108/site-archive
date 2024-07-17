@@ -30,7 +30,6 @@ export default function NavLink ({
 
         const page = document.getElementById("page");
         page?.classList.add('page-transition');
-        await sleep(500);
         router.push(href);
     };
 
