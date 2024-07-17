@@ -15,6 +15,7 @@ export default function AnimatedLink({
         <a 
         href={href}
         target="_blank"
+        {...props}
         >
             <span
             className={cn("link link-underline font-bold", className)}>
