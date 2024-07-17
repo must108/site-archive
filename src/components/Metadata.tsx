@@ -1,9 +1,9 @@
-import { usePathname } from "next/navigation"
+import { usePathname } from "next/navigation";
 
 interface MetadataProps {
     title: string,
     description: string,
-}
+};
 
 export default function Metadata({ title, description }: MetadataProps) {
     const pathname = usePathname();
