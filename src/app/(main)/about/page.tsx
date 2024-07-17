@@ -33,7 +33,7 @@ export const metadata: Metadata = {
 
 export default function About() {
     return (
-      <section className="max-w-screen-sm">
+      <section className="max-w-screen-sm p-4">
         <p 
         className="flex text-white font-bold mx-auto
         text-3xl pb-8"
@@ -45,9 +45,8 @@ export default function About() {
           className="text-white
           text-md pt-2"
           >
-              i&apos;m a software engineer and 
-              computer science student currently
-              studying at{" "}
+              i&apos;m a software engineer and an undergraduate
+              computer science student at{" "}
               <AnimatedLink href="https://www.ucf.edu/"
               >
                 UCF
@@ -57,14 +56,14 @@ export default function About() {
               >
                 Darden
               </AnimatedLink>
-              , where I work to automate critical processes to
+              , where I work on automating critical processes to
               expedite our workflows.
           </p>
           <p className="text-white text-md">
             i have a deep passion for several fields in computer science, including
             machine learning, data analytics, full-stack web/mobile development, and 
             computer vision. these passions stem from a love of learning and creating, 
-            and they thrive as there is always something new to learn in this field.
+            and they thrive, as there is always something new to learn in this industry.
           </p> 
           <p className="text-white text-md">
             since i started working in this field, i&apos;ve

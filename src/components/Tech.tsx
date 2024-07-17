@@ -86,7 +86,7 @@ export default function Tech() {
                         <SiPandas size={24} title="Pandas" />
                     </Icons>
                 </div>
-                <div className="w-1/2 text-white flex flex-col gap-10">
+                <div className="w-1/2 text-white flex flex-col gap-2 tech:gap-10">
                     <Icons title="frameworks">
                             <FaReact size={24} title="React" />
                             <SiNextdotjs size={24} title="Next.js" />

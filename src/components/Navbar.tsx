@@ -7,7 +7,7 @@ export default function Navbar() {
     return (
         <nav className="flex justify-center">
             <div className="flex mx-auto
-            fixed p-4 z-[100] h-36 items-center">
+            p-4 z-[100] h-36 items-center">
                 <div className="text-white text-left gap-4 
                 flex flex-row"
                 >

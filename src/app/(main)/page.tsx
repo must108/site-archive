@@ -12,22 +12,23 @@ export default function Home() {
     <>
         <section className={cn(
             "mx-1 sm:mx-0", 
-            "flex",
+            "flex justify-center",
             "flex-col overflow-scroll",
             "whitespace-normal",
-            "overflow-x-hidden"
+            "overflow-x-hidden",
+            "h-[65vh]"
         )}>
             <div>
-                <header>
+                <div>
                     <p className="font-bold text-md text-white text-center">
                         hello! i&apos;m
                     </p>
                     <h1 className="text-4xl sm:text-5xl font-bold 
                         bg-gradient-to-r from-blue-300 to-blue-600 
-                        bg-clip-text text-transparent">
+                        bg-clip-text text-transparent text-center">
                         mustaeen ahmed
                     </h1>
-                </header>
+                </div>
                 <div className="flex my-2">
                     <div className="flex w-full flex-row
                         gap-x-1 rounded-xl text-white text-sm 

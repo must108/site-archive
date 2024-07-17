@@ -51,11 +51,10 @@ export default function RootLayout({
       <html lang="en">
       <body className={cn("mx-auto flex", 
         "min-h-screen max-w-screen-sm flex-col", 
-        "flex-col bg-[#09090B] overflow-hidden",
+        "flex-col bg-[#09090B]",
         inter.className)}>
         <Navbar />
-        <div className="flex-grow flex items-center justify-center
-        h-[100vh]">
+        <div>
           {children}
         </div>
         </body>
