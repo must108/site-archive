@@ -32,7 +32,7 @@ const projects = [
     link: "https://github.com/acm-dev-website",
     description: "club website for the acm at ucf. my primary project while working with them as a software developer.",
     skills: "html, css, javascript, mongodb, node.js, express.js",
-    web: "https://github.com/acm-dev-website",
+    web: "https://www.acmucf.org/",
   },
   {
     name: "multi-wordle",
