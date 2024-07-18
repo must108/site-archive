@@ -18,10 +18,11 @@ export default function Home() {
             className={cn(
             "mx-1 sm:mx-0", 
             "flex justify-center",
-            "flex-col overflow-scroll",
+            "flex-col",
             "whitespace-normal",
             "overflow-x-hidden",
-            "h-[65vh]"
+            "h-[65vh]",
+            "overflow-hidden sm:overflow-scroll"
         )}>
             <div id="page" className="page-transition">
                 <div>
