@@ -152,7 +152,7 @@ export default function Projects() {
         <p className="text-white text-sm"
         >
           i&apos;m most passionate about building software, and working on projects
-          allows me to pursue that passion. here are some notable ones!
+          allows me to do just that. here are some notable ones!
         </p>
         <hr className="my-6 font-medium border-[#404040]"/>
         {projects.map((project, _) => (
