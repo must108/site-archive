@@ -22,7 +22,7 @@ export default function Home() {
             "whitespace-normal",
             "overflow-x-hidden",
             "h-[65vh]",
-            "overflow-hidden sm:overflow-scroll"
+            "overflow-scroll"
         )}>
             <div id="page" className="page-transition">
                 <div>
