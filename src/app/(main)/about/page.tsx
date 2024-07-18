@@ -29,7 +29,7 @@ export default function About() {
                  computer science student at{" "}
                  <AnimatedLink href="https://www.ucf.edu/"
                  >
-                   UCF
+                   ucf
                  </AnimatedLink>
                  . i currently work as a software engineer at{" "}
                  <AnimatedLink href="https://www.darden.com/"
