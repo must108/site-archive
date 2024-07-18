@@ -36,7 +36,7 @@ export default function About() {
                  >
                    Darden
                  </AnimatedLink>
-                 , where I work on automating critical processes to
+                 , where i work on automating critical processes to
                  expedite our workflows.
              </p>
              <p className="text-white text-md">

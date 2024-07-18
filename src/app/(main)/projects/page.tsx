@@ -44,7 +44,7 @@ const projects = [
   {
     name: "musicnotes",
     link: "https://github.com/must108/musicnotes",
-    description: "a python package which allows a developer to play music notes in their programs.",
+    description: "a python package which allows developers to play music notes in their programs.",
     skills: "python, github actions",
     web: "https://pypi.org/project/musicnotes/",
   },
