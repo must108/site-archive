@@ -3,7 +3,6 @@
 import Buttons from "../../components/Buttons";
 import { Lanyard } from "@/components/Status";
 import Time from "@/components/Time";
-import Projects from "../../components/Projects";
 import { cn } from "@/utils/cn";
 import { useEffect } from "react";
 
