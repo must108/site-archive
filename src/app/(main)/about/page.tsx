@@ -34,7 +34,7 @@ export default function About() {
                  . i currently work as a software engineer at{" "}
                  <AnimatedLink href="https://www.darden.com/"
                  >
-                   Darden
+                   darden
                  </AnimatedLink>
                  , where i work on automating critical processes to
                  expedite our workflows.
