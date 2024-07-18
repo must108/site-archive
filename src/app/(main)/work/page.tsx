@@ -40,7 +40,7 @@ export default function Work() {
                   className="text-white text-xl font-medium">
                     {place.name}
                   </AnimatedLink>
-                  <p className="text-white text-xs text-[#999]"
+                  <p className="text-xs text-[#999]"
                   >{place.role}</p>
                 </div>
               </div>
