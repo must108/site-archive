@@ -21,6 +21,13 @@ const projects = [
     web: "https://simple-face-recognition.vercel.app/",
   },
   {
+    name: "t.k. discord bot",
+    link: "https://github.com/KnightHacks/tk",
+    description: "worked with the knighthacks development team to create a multi-purpose discord bot for their discord server.",
+    skills: "typescript, discord.js, node.js, node-cron, sqlite",
+    web: "https://club.knighthacks.org/"
+  },
+  {
     name: "naturalization test app",
     link: "https://github.com/must108/naturalization-test",
     description: "quiz application which allows a user to review for the civics test that's given in the u.s. naturalization process.",
