@@ -9,11 +9,15 @@ const work = [
     name: "darden",
     role: "software engineer",
     link: "https://www.darden.com/",
+    description: "worked on automating employee workflows. also involved with application development and data analysis.",
+    skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
   },
   {
     name: "association for computing machinery",
     role: "software developer",
-    link: "https://www.acmucf.org/"
+    link: "https://www.acmucf.org/",
+    description: "worked on an admin tool and api for acm's website. involved with backend engineering.",
+    skills: "javascript, node.js, express.js, html, css, mongodb"
   },
 ];
 
@@ -44,6 +48,12 @@ export default function Work() {
                   </AnimatedLink>
                   <p className="text-xs text-[#999]"
                   >{place.role}</p>
+                  <p className="text-white text-sm pt-3">
+                    {place.description}
+                  </p>
+                  <p className="text-[#999] text-xs">
+                    {place.skills}
+                  </p>
                 </div>
               </div>
               <hr className="my-6 border-[#404040]"/>

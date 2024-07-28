@@ -103,12 +103,12 @@ const projects = [
   //   description: "project which contains several scripts that generate cool data visualizations with matplotlib.",
   //   skills: "python, matplotlib"
   // },
-  // {
-  //   name: "python auto clicker",
-  //   link: "https://github.com/must108/python-auto-clicker",
-  //   description: "gui auto clicker application which can achieve some crazy fast click speeds.",
-  //   skills: "python, tkinter",
-  // },
+  {
+    name: "python auto clicker",
+    link: "https://github.com/must108/python-auto-clicker",
+    description: "gui auto clicker application which can achieve some crazy fast click speeds.",
+    skills: "python, tkinter",
+  },
   // {
   //   name: "weather app",
   //   link: "https://github.com/must108/weather-app",
