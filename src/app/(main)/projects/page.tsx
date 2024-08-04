@@ -24,7 +24,7 @@ const projects = [
     name: "t.k. discord bot",
     link: "https://github.com/KnightHacks/tk",
     description: "worked with the knighthacks development team to create a multi-purpose discord bot for their discord server.",
-    skills: "typescript, discord.js, node.js, node-cron, sqlite",
+    skills: "typescript, discord.js, node.js, node-cron, sqlite, linux",
     web: "https://club.knighthacks.org/"
   },
   {
