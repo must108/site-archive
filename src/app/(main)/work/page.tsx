@@ -1,5 +1,6 @@
 "use client";
 
+import React from 'react';
 import Metadata from "@/components/Metadata";
 import { useEffect } from "react";
 import AnimatedLink from "@/components/AnimatedLink";

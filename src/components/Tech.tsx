@@ -1,5 +1,7 @@
 "use client";
 
+import React from "react";
+
 import {
     FaJava,
     FaReact,
@@ -50,7 +52,6 @@ import {
 } from 'react-icons/gr';
 
 import { Icons } from './Icongroup';
-import Matplotlib from './Matplotlib';
 
 export default function Tech() {
     return (

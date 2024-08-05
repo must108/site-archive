@@ -1,6 +1,7 @@
+import React from "react";
 import { usePathname } from "next/navigation";
 import { cn } from "@/utils/cn";
-import { AnchorHTMLAttributes, useEffect } from "react";
+import { AnchorHTMLAttributes } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 

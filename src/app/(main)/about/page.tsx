@@ -1,5 +1,6 @@
 "use client";
 
+import React from 'react';
 import AnimatedLink from "@/components/AnimatedLink";
 import Tech from "@/components/Tech";
 import { useEffect } from "react";

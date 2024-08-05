@@ -1,5 +1,7 @@
 "use client";
 
+import React from "react";
+
 export default function Resume() {
     return (
         <svg className="bg-button-color p-2 rounded-lg 

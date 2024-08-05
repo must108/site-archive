@@ -1,5 +1,6 @@
 "use client";
 
+import React from 'react';
 import Buttons from "../../components/Buttons";
 import { Lanyard } from "@/components/Status";
 import Time from "@/components/Time";

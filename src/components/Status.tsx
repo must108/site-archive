@@ -1,5 +1,6 @@
 "use client"
 
+import React from "react";
 import { DISCORD_USER_ID } from "../utils/constants";
 import { Options, useLanyardWS } from "use-lanyard";
 
