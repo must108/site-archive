@@ -18,7 +18,7 @@ const projects = [
     link: "https://github.com/must108/simple-face-recognition",
     description: "experimental computer vision powered application that detects faces in an uploaded image.",
     skills: "next.js, react, typescript, python, flask, opencv",
-    web: "https://simple-face-recognition.vercel.app/",
+    web: "https://face-recognition.projects.mustaeen.dev/",
   },
   {
     name: "t.k. discord bot",
@@ -32,7 +32,7 @@ const projects = [
     link: "https://github.com/must108/naturalization-test",
     description: "quiz application which allows a user to review for the civics test that's given in the u.s. naturalization process.",
     skills: "html, scss, typescript, mysql, node.js, express.js, supabase",
-    web: "https://naturalization-test.vercel.app/",
+    web: "https://naturalization-test.projects.mustaeen.dev/",
   },
   {
     name: "acm website",
@@ -46,7 +46,7 @@ const projects = [
     link: "https://github.com/must108/multi-wordle",
     description: "a rendition of wordle with added four and six letter game modes.",
     skills: "next.js, react, typescript, postgresql, prisma, supabase, node.js, tailwind css, vitest",
-    web: "https://multi-wordle.vercel.app/",
+    web: "https://multi-wordle.projects.mustaeen.dev/",
   },
   {
     name: "musicnotes",
