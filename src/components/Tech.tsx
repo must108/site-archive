@@ -24,6 +24,7 @@ import {
     SiTailwindcss,
     SiBootstrap,
     SiPandas,
+    SiRedis,
     SiFlask,
     SiDjango,
     SiOpencv,
@@ -98,6 +99,7 @@ export default function Tech() {
                         <GrMysql size={24} title="MySQL" />
                         <SiPostgresql size={24} title="PostgreSQL" />
                         <SiPrisma size={24} title="Prisma" />
+                        <SiRedis size={24} title="Redis" />
                         <SiSupabase size={24} title="Supabase" />
                         <SiAmazons3 size={24} title="Amazon S3" />
                         <SiJupyter size={24} title="Jupyter Notebook" />

@@ -11,7 +11,7 @@ const projects = [
     name: "naavis",
     link: "https://github.com/naavis-app/app",
     description: "cross platform web/mobile application that aims to bring free location sharing and device tracking to all.",
-    skills: "next.js, react, typescript, postgresql, prisma, amazon s3, trpc, tailwind css, vitest",
+    skills: "next.js, react, typescript, postgresql, prisma, redis, amazon s3, trpc, tailwind css, vitest",
     web: "https://cheerful-sunshine-bbe8c9.netlify.app/"
   }, 
   {
