@@ -43,6 +43,13 @@ const projects = [
     web: "https://www.acmucf.org/",
   },
   {
+    name: "horse plinko discord bot",
+    link: "https://github.com/HackUCF",
+    description: "developed features of an advanced utility discord bot for hack@ucf's horse plinko competition.",
+    skills: "javascript, discord.js, node.js",
+    web: "https://plinko.horse/",
+  },
+  {
     name: "multi-wordle",
     link: "https://github.com/must108/multi-wordle",
     description: "a rendition of wordle with added four and six letter game modes.",
