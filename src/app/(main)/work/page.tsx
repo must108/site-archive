@@ -14,6 +14,13 @@ const work = [
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
   },
   {
+    name: "hack@ucf",
+    role: "software developer",
+    link: "https://www.hackucf.org/",
+    description: "worked on a discord bot for hack@ucf's horse plinko competition",
+    skills: "javascript, discord.js, node.js"
+  },
+  {
     name: "association for computing machinery",
     role: "software developer",
     link: "https://www.acmucf.org/",
