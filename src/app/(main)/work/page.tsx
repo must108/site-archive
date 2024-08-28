@@ -52,6 +52,11 @@ export default function Work() {
         >
           work
         </h1>
+        <p className="text-white text-sm">
+          i&apos;m very passionate about contributing to software
+          in businesses and other organizations. here are some of my 
+          experiences doing just that!
+        </p>
         <hr className="my-6 border-[#404040]"/>
         {work.map((place, _) => (
             <>
