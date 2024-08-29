@@ -18,7 +18,7 @@ const work = [
     role: "software developer",
     link: "https://2024.knighthacks.org/",
     description: "worked on a multi-purpose discord bot for the knighthacks discord server.",
-    skills: "typescript discord.js, node.js, node-cron, sqlite, linux"
+    skills: "typescript, discord.js, node.js, node-cron, sqlite, linux"
   },
   {
     name: "hack@ucf",
