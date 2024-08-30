@@ -7,6 +7,12 @@ import AnimatedLink from "@/components/AnimatedLink";
 
 const work = [
   {
+    name: "leidos",
+    role: "software engineer intern",
+    link: "https://www.leidos.com/",
+    description: "incoming fall 2024",
+  },
+  {
     name: "darden",
     role: "software engineer",
     link: "https://www.darden.com/",
@@ -24,7 +30,7 @@ const work = [
     name: "hack@ucf",
     role: "software developer",
     link: "https://www.hackucf.org/",
-    description: "worked on a discord bot for hack@ucf's horse plinko competition",
+    description: "worked on a discord bot for hack@ucf's horse plinko competition.",
     skills: "javascript, discord.js, node.js"
   },
   {
