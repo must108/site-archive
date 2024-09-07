@@ -42,6 +42,7 @@ import {
     SiTrpc,
     SiGo,
     SiPytorch,
+    SiDocker,
 } from 'react-icons/si';
 
 import {
@@ -99,6 +100,7 @@ export default function Tech() {
                         <GrMysql size={24} title="MySQL" />
                         <SiPostgresql size={24} title="PostgreSQL" />
                         <SiPrisma size={24} title="Prisma" />
+                        <SiDocker size={24} title="Docker" />
                         <SiRedis size={24} title="Redis" />
                         <SiSupabase size={24} title="Supabase" />
                         <SiAmazons3 size={24} title="Amazon S3" />

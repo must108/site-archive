@@ -18,7 +18,7 @@ const projects = [
     name: "facial detection tool",
     link: "https://github.com/must108/simple-face-recognition",
     description: "experimental computer vision powered application that detects faces in an uploaded image.",
-    skills: "next.js, react, typescript, python, flask, opencv",
+    skills: "next.js, react, typescript, python, flask, opencv, docker, linux",
     web: "https://face-recognition.projects.mustaeen.dev/",
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     name: "naturalization test app",
     link: "https://github.com/must108/naturalization-test",
     description: "quiz application which allows a user to review for the civics test that's given in the u.s. naturalization process.",
-    skills: "html, scss, typescript, mysql, node.js, express.js, supabase",
+    skills: "html, scss, typescript, mysql, node.js, express.js, supabase, docker, linux",
     web: "https://naturalization-test.projects.mustaeen.dev/",
   },
   {
@@ -53,14 +53,14 @@ const projects = [
     name: "multi-wordle",
     link: "https://github.com/must108/multi-wordle",
     description: "a rendition of wordle with added four and six letter game modes.",
-    skills: "next.js, react, typescript, postgresql, prisma, supabase, node.js, tailwind css, vitest",
+    skills: "next.js, react, typescript, postgresql, prisma, supabase, node.js, tailwind css, vitest, docker, linux",
     web: "https://multi-wordle.projects.mustaeen.dev/",
   },
   {
     name: "musicnotes",
     link: "https://github.com/must108/musicnotes",
     description: "a python package which allows developers to play music notes in their programs.",
-    skills: "python, github actions",
+    skills: "python, github actions, docker",
     web: "https://pypi.org/project/musicnotes/",
   },
   {
