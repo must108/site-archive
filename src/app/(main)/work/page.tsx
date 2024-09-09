@@ -10,7 +10,7 @@ const work = [
     name: "leidos",
     role: "software engineer intern",
     link: "https://www.leidos.com/",
-    description: "incoming fall 2024",
+    description: "currently working on the simulation development/machine learning team.",
   },
   {
     name: "darden",
