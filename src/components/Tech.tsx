@@ -43,6 +43,7 @@ import {
     SiGo,
     SiPytorch,
     SiDocker,
+    SiJira,
 } from 'react-icons/si';
 
 import {
@@ -97,6 +98,7 @@ export default function Tech() {
                     <Icons title="tools">
                         <SiGit size={24} title="Git" />
                         <BsGithub size={24} title="GitHub" />
+                        <SiJira size={24} title="Jira" />
                         <GrMysql size={24} title="MySQL" />
                         <SiPostgresql size={24} title="PostgreSQL" />
                         <SiPrisma size={24} title="Prisma" />
