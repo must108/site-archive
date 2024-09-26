@@ -11,6 +11,7 @@ const work = [
     role: "software engineer intern",
     link: "https://www.leidos.com/",
     description: "currently working on the simulation development/machine learning team.",
+    skills: "python, pandas, LLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
     name: "darden",
