@@ -15,6 +15,14 @@ const projects = [
     web: "https://cheerful-sunshine-bbe8c9.netlify.app/"
   }, 
   {
+    name: "insurify",
+    link: "https://github.com/noahgerard/insurify",
+    description: 
+    "a multi-purpose insurance tool that classifies car damage based on an image and a few questions, and delivers a reliable quote.",
+    skills: "python, flask, opencv, next.js, react, typescript, postgresql, prisma, tailwind css",
+    web: "https://devpost.com/software/insurify-zj2dh4"
+  },
+  {
     name: "facial detection tool",
     link: "https://github.com/must108/simple-face-recognition",
     description: "experimental computer vision powered application that detects faces in an uploaded image.",
