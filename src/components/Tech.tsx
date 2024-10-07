@@ -10,6 +10,7 @@ import {
 
 import {
     SiC,
+    SiCsharp,
     SiCplusplus,
     SiJavascript,
     SiNextdotjs,
@@ -68,6 +69,7 @@ export default function Tech() {
                         <SiTypescript size={24} title="TypeScript" />
                         <SiC size={24} title="C" />
                         <SiCplusplus size={24} title="C++" />
+                        <SiCsharp size={24} title="C#" />
                         <SiGo size={24} title="Go" />
                         <FaJava size={24} title="Java" />
                         <SiPython size={24} title="Python" />

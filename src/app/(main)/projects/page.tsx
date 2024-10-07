@@ -13,6 +13,13 @@ const projects = [
     description: "cross platform web/mobile application that aims to bring free location sharing and device tracking to all.",
     skills: "next.js, react, typescript, postgresql, prisma, redis, amazon s3, trpc, tailwind css, vitest",
     web: "https://cheerful-sunshine-bbe8c9.netlify.app/"
+  },
+  {
+    name: "guitAR",
+    link: "https://github.com/must108/guitAR",
+    description: "an educational mixed reality application to help with learning/practing guitar. won 2nd place at knighthacks 2024.",
+    skills: "c#, c++, unity, meta sdk, grokit",
+    web: "https://devpost.com/software/guitar-o3gw19"
   }, 
   {
     name: "insurify",
