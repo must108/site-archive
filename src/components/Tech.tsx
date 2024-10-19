@@ -22,6 +22,7 @@ import {
     SiPython,
     SiAstro,
     SiExpress,
+    SiTensorflow,
     SiTailwindcss,
     SiBootstrap,
     SiPandas,
@@ -63,21 +64,22 @@ export default function Tech() {
             <div className='flex gap-10'>
                 <div className='w-1/2 text-white flex flex-col gap-2'>
                     <Icons title="languages">
-                        <SiHtml5 size={24} title="HTML" />
-                        <SiCss3 size={24} title="CSS" />
+                        <SiPython size={24} title="Python" />
                         <SiJavascript size={24} title="JavaScript" />
                         <SiTypescript size={24} title="TypeScript" />
+                        <FaRProject size={24} title="R" />
                         <SiC size={24} title="C" />
                         <SiCplusplus size={24} title="C++" />
                         <SiCsharp size={24} title="C#" />
-                        <SiGo size={24} title="Go" />
                         <FaJava size={24} title="Java" />
-                        <SiPython size={24} title="Python" />
-                        <FaRProject size={24} title="R" />
+                        <SiGo size={24} title="Go" />
+                        <SiHtml5 size={24} title="HTML" />
+                        <SiCss3 size={24} title="CSS" />
                     </Icons>
                     <Icons title="packages">
                         <SiScikitlearn size={24} title="scikit-learn" />
                         <SiPytorch size={24} title="PyTorch" />
+                        <SiTensorflow size={24} title="TensorFlow" />
                         <SiNumpy size={24} title="NumPy" />
                         {/* <Matplotlib title="Matplotlib" /> */}
                         <SiDjango size={24} title="Django" />
