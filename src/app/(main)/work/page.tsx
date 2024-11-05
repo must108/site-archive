@@ -10,8 +10,8 @@ const work = [
     name: "leidos",
     role: "software engineer intern",
     link: "https://www.leidos.com/",
-    description: "currently working on the simulation development/machine learning team.",
-    skills: "python, pandas, LLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
+    description: "working with LLMs and VLMs to improve spatial intelligence within artificial intelligence.",
+    skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
     name: "darden",
@@ -22,9 +22,9 @@ const work = [
   },
   {
     name: "knighthacks",
-    role: "software developer",
+    role: "software engineer",
     link: "https://2024.knighthacks.org/",
-    description: "worked on a multi-purpose discord bot for the knighthacks discord server.",
+    description: "worked on a multi-purpose discord bot, club/hackathon website, and a monorepository.",
     skills: "typescript, discord.js, node.js, node-cron, sqlite, linux"
   },
   {
@@ -40,6 +40,13 @@ const work = [
     link: "https://www.acmucf.org/",
     description: "worked on an admin tool and api for acm's website. involved with backend engineering.",
     skills: "javascript, node.js, express.js, html, css, mongodb"
+  },
+  {
+    name: "orange county public schools",
+    role: "information technology intern",
+    link: "https://www.ocps.net/",
+    description: "data analytics and software troubleshooting in schools.",
+    skills: "powershell, java, operating systems, microsoft excel"
   },
 ];
 
