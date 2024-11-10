@@ -43,9 +43,9 @@ const work = [
   },
   {
     name: "orange county public schools",
-    role: "information technology intern",
+    role: "software engineer intern",
     link: "https://www.ocps.net/",
-    description: "data analytics and software troubleshooting in schools.",
+    description: "worked on automation scripting with powershell. also involved with data analytics and software troubleshooting.",
     skills: "powershell, java, operating systems, microsoft excel"
   },
 ];
