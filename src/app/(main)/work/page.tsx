@@ -28,11 +28,11 @@ const work = [
     skills: "typescript, discord.js, node.js, node-cron, sqlite, linux"
   },
   {
-    name: "hack@ucf",
-    role: "software developer",
-    link: "https://www.hackucf.org/",
-    description: "worked on a discord bot for hack@ucf's horse plinko competition.",
-    skills: "javascript, discord.js, node.js"
+    name: "orange county public schools",
+    role: "software engineer intern",
+    link: "https://www.ocps.net/",
+    description: "worked on automation scripting with powershell. also involved with data analytics and software troubleshooting.",
+    skills: "powershell, java, operating systems, microsoft excel"
   },
   {
     name: "association for computing machinery",
@@ -42,11 +42,11 @@ const work = [
     skills: "javascript, node.js, express.js, html, css, mongodb"
   },
   {
-    name: "orange county public schools",
-    role: "software engineer intern",
-    link: "https://www.ocps.net/",
-    description: "worked on automation scripting with powershell. also involved with data analytics and software troubleshooting.",
-    skills: "powershell, java, operating systems, microsoft excel"
+    name: "hack@ucf",
+    role: "software developer",
+    link: "https://www.hackucf.org/",
+    description: "worked on a discord bot for hack@ucf's horse plinko competition.",
+    skills: "javascript, discord.js, node.js"
   },
 ];
 
