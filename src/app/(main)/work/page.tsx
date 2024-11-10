@@ -15,7 +15,7 @@ const work = [
   },
   {
     name: "darden",
-    role: "software engineer",
+    role: "software engineer intern",
     link: "https://www.darden.com/",
     description: "worked on automating employee workflows. also involved with application development and data analysis.",
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
