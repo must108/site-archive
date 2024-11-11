@@ -86,6 +86,12 @@ const projects = [
     web: "https://mustaeen.dev/",
   },
   {
+    name: "movie recommender",
+    link: "https://github.com/must108/movie-recommend",
+    description: "maching learning model that recommends movies to you!",
+    skills: "python, jupyter notebook, pandas, scikit-learn, numpy"
+  },
+  {
     name: "stock model",
     link: "https://github.com/must108/stock-model",
     description: "machine learning model that predicts the rise of the s&p 500 based on historical data.",
