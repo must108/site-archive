@@ -26,6 +26,7 @@ import {
     SiTailwindcss,
     SiBootstrap,
     SiPandas,
+    SiKeras,
     SiRedis,
     SiFlask,
     SiDjango,
@@ -80,6 +81,7 @@ export default function Tech() {
                         <SiScikitlearn size={24} title="scikit-learn" />
                         <SiPytorch size={24} title="PyTorch" />
                         <SiTensorflow size={24} title="TensorFlow" />
+                        <SiKeras size={24} title="Keras" />
                         <SiNumpy size={24} title="NumPy" />
                         {/* <Matplotlib title="Matplotlib" /> */}
                         <SiDjango size={24} title="Django" />
