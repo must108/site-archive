@@ -32,20 +32,20 @@ export default function About() {
                  >
                    ucf
                  </AnimatedLink>
-                 . i currently work as a software engineer at{" "}
+                 . i currently work as a software engineer at {" "}
                  <AnimatedLink href="https://www.leidos.com/"
                  >
                    leidos
                  </AnimatedLink>
-                 , {" "}
-                 <AnimatedLink href="https://www.darden.com/">
-                    darden
-                 </AnimatedLink>
-                 , {" "} and {" "}
+                {" "} and {" "}
                 <AnimatedLink href="https://club.knighthacks.org/">
                   knighthacks
                 </AnimatedLink>
-                , and also previously worked at {" "}
+                , and i&apos;ve also previously worked at {" "}
+                 <AnimatedLink href="https://www.darden.com/">
+                    darden
+                 </AnimatedLink>
+                 {" "} and {" "}
                 <AnimatedLink href="https://www.ocps.net">
                   ocps
                 </AnimatedLink>
