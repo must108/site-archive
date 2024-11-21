@@ -41,7 +41,11 @@ export default function About() {
                 <AnimatedLink href="https://club.knighthacks.org/">
                   knighthacks
                 </AnimatedLink>
-                , and i&apos;ve also previously worked at {" "}
+                , and as a researcher for {" "}
+                <AnimatedLink href="https://www.ece.ucf.edu/">
+                  ucf ece
+                </AnimatedLink>
+                . i&apos;ve also previously worked at {" "}
                  <AnimatedLink href="https://www.darden.com/">
                     darden
                  </AnimatedLink>

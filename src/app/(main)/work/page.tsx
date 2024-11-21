@@ -14,11 +14,11 @@ const work = [
     skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
-    name: "darden",
-    role: "software engineer intern",
-    link: "https://www.darden.com/",
-    description: "worked on automating employee workflows. also involved with application development and data analysis.",
-    skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
+    name: "ucf ece",
+    role: "undergraduate researcher",
+    link: "https://www.ece.ucf.edu/",
+    description: "working with neural networks for reinforcement learning, implementing dynamic programming optimization methods.",
+    skills: "python, neural networks"
   },
   {
     name: "knighthacks",
@@ -26,6 +26,13 @@ const work = [
     link: "https://2024.knighthacks.org/",
     description: "worked on a multi-purpose discord bot, club/hackathon website, and a monorepository.",
     skills: "typescript, discord.js, node.js, node-cron, sqlite, linux"
+  },
+  {
+    name: "darden",
+    role: "software engineer intern",
+    link: "https://www.darden.com/",
+    description: "worked on automating employee workflows. also involved with application development and data analysis.",
+    skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
   },
   {
     name: "orange county public schools",
