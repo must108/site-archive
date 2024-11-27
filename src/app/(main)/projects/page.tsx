@@ -140,6 +140,12 @@ const projects = [
   //   skills: "python, matplotlib"
   // },
   {
+    name: "shiny projects",
+    link: "https://github.com/must108/shiny",
+    description: "a collection of several projects made with the shiny framework in R.",
+    skills: "R, shiny"
+  },
+  {
     name: "python auto clicker",
     link: "https://github.com/must108/python-auto-clicker",
     description: "gui auto clicker application which can achieve some crazy fast click speeds.",
