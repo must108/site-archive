@@ -35,11 +35,11 @@ const work = [
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
   },
   {
-    name: "orange county public schools",
-    role: "software engineer intern",
-    link: "https://www.ocps.net/",
-    description: "worked on automation scripting with powershell. also involved with data analytics and software troubleshooting.",
-    skills: "powershell, java, operating systems, microsoft excel"
+    name: "hack@ucf",
+    role: "software developer",
+    link: "https://www.hackucf.org/",
+    description: "worked on a discord bot for hack@ucf's horse plinko competition.",
+    skills: "javascript, discord.js, node.js"
   },
   {
     name: "association for computing machinery",
@@ -49,11 +49,18 @@ const work = [
     skills: "javascript, node.js, express.js, html, css, mongodb"
   },
   {
-    name: "hack@ucf",
-    role: "software developer",
-    link: "https://www.hackucf.org/",
-    description: "worked on a discord bot for hack@ucf's horse plinko competition.",
-    skills: "javascript, discord.js, node.js"
+    name: "orange county public schools",
+    role: "software engineer intern",
+    link: "https://www.ocps.net/",
+    description: "worked on automation scripting with powershell. also involved with data analytics and software troubleshooting.",
+    skills: "powershell, java, vba, operating systems, microsoft excel"
+  },
+  {
+    name: "kelly",
+    role: "software engineer intern",
+    link: "https://www.kellyservices.com/",
+    description: "worked on sys admin automation scripting with powershell. also involved with software troubleshooting.",
+    skills: "powershell, operating systems, microsoft excel"
   },
 ];
 

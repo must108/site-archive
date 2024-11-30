@@ -49,9 +49,13 @@ export default function About() {
                  <AnimatedLink href="https://www.darden.com/">
                     darden
                  </AnimatedLink>
-                 {" "} and {" "}
+                 , {" "}
                 <AnimatedLink href="https://www.ocps.net">
                   ocps
+                </AnimatedLink>
+                , {" "} and {" "}
+                <AnimatedLink href="https://www.kellyservices.com/">
+                  kelly
                 </AnimatedLink>
                 . i work on a wide range of things, such as large language models,
                 web development, and automation.
