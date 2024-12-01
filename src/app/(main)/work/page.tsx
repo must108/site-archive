@@ -62,6 +62,13 @@ const work = [
     description: "worked on sys admin automation scripting with powershell. also involved with software troubleshooting.",
     skills: "powershell, operating systems, microsoft excel"
   },
+  {
+    name: "itch.io",
+    role: "software engineer",
+    link: "https://itch.io/",
+    description: "built several games with c++, html, css, and js.",
+    skills: "c++, html, css, javascript"
+  }
 ];
 
 export default function Work() {
