@@ -64,7 +64,7 @@ const work = [
   },
   {
     name: "itch.io",
-    role: "software engineer",
+    role: "software engineer intern",
     link: "https://itch.io/",
     description: "built several games with c++, html, css, and js.",
     skills: "c++, html, css, javascript"
