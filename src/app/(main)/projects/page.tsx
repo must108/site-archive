@@ -116,6 +116,12 @@ const projects = [
     skills: "java, java swing"
   },
   {
+    name: "xss worm",
+    link: "https://github.com/must108/xss-worm",
+    description: "reimplementation of the samy XSS worm that infected myspace users in 2005.",
+    skills: "javascript, html"
+  },
+  {
     name: "cv projects",
     link: "https://github.com/must108/cv-with-cascade",
     description: "a collection of projects i've worked on while studying computer vision.",
