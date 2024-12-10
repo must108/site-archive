@@ -11,7 +11,7 @@ const projects = [
     name: "naavis",
     link: "https://github.com/naavis-app/app",
     description: "cross platform web/mobile application that aims to bring free location sharing and device tracking to all.",
-    skills: "next.js, react, typescript, postgresql, prisma, redis, amazon s3, trpc, tailwind css, vitest",
+    skills: "next.js, react, typescript, postgresql, prisma, redis, amazon s3, trpc, tailwind css, vitest, restful apis",
     web: "https://cheerful-sunshine-bbe8c9.netlify.app/"
   },
   {
@@ -26,49 +26,49 @@ const projects = [
     link: "https://github.com/noahgerard/insurify",
     description: 
     "a multi-purpose insurance tool that classifies car damage based on an image and a few questions, and delivers a reliable quote.",
-    skills: "python, flask, opencv, next.js, react, typescript, postgresql, prisma, tailwind css",
+    skills: "python, flask, opencv, next.js, react, typescript, postgresql, prisma, tailwind css, docker, restful apis",
     web: "https://devpost.com/software/insurify-zj2dh4"
   },
   {
     name: "facial detection tool",
     link: "https://github.com/must108/simple-face-recognition",
     description: "experimental computer vision powered application that detects faces in an uploaded image.",
-    skills: "next.js, react, typescript, python, flask, opencv, docker, linux",
+    skills: "next.js, react, typescript, python, flask, opencv, docker, linux, restful apis",
     web: "https://face-recognition.projects.mustaeen.dev/",
   },
   {
     name: "t.k. discord bot",
     link: "https://github.com/KnightHacks/tk",
     description: "worked with the knighthacks development team to create a multi-purpose discord bot for their discord server.",
-    skills: "typescript, discord.js, node.js, node-cron, sqlite, linux",
+    skills: "typescript, discord.js, node.js, node-cron, sqlite, linux, restful apis",
     web: "https://club.knighthacks.org/"
   },
   {
     name: "naturalization test app",
     link: "https://github.com/must108/naturalization-test",
     description: "quiz application which allows a user to review for the civics test that's given in the u.s. naturalization process.",
-    skills: "html, scss, typescript, mysql, node.js, express.js, supabase, docker, linux",
+    skills: "html, scss, typescript, mysql, node.js, express.js, supabase, docker, linux, restful apis",
     web: "https://naturalization-test.projects.mustaeen.dev/",
   },
   {
     name: "acm website",
     link: "https://github.com/acm-dev-website",
     description: "club website for the acm at ucf. my primary project while working with them as a software developer.",
-    skills: "html, css, javascript, mongodb, node.js, express.js",
+    skills: "html, css, javascript, mongodb, node.js, express.js, restful apis",
     web: "https://www.acmucf.org/",
   },
   {
     name: "horse plinko discord bot",
     link: "https://github.com/HackUCF",
     description: "developed features of an advanced utility discord bot for hack@ucf's horse plinko competition.",
-    skills: "javascript, discord.js, node.js",
+    skills: "javascript, discord.js, node.js, restful apis",
     web: "https://plinko.horse/",
   },
   {
     name: "multi-wordle",
     link: "https://github.com/must108/multi-wordle",
     description: "a rendition of wordle with added four and six letter game modes.",
-    skills: "next.js, react, typescript, postgresql, prisma, supabase, node.js, tailwind css, vitest, docker, linux",
+    skills: "next.js, react, typescript, postgresql, prisma, supabase, node.js, tailwind css, vitest, docker, linux, restful apis",
     web: "https://multi-wordle.projects.mustaeen.dev/",
   },
   {
