@@ -14,6 +14,18 @@ const work = [
     skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
+    name: "gamesthatwork",
+    role: "software engineer intern",
+    link: "https://www.linkedin.com/company/gamesthatwork/",
+    description: "current intern",
+  },
+  {
+    name: "cae",
+    role: "software engineer intern",
+    link: "https://www.cae.com/",
+    description: "currently working on the scars program",
+  },
+  {
     name: "ucf ece",
     role: "researcher",
     link: "https://www.ece.ucf.edu/",
@@ -43,8 +55,8 @@ const work = [
   },
   {
     name: "association for computing machinery",
-    role: "software developer",
-    link: "https://www.acmucf.org/",
+    role: "software engineer",
+    link: "https://www.acm.org/",
     description: "worked on an admin tool and api for acm's website. involved with backend engineering.",
     skills: "javascript, node.js, express.js, html, css, mongodb"
   },
