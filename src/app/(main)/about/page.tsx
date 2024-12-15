@@ -37,8 +37,16 @@ export default function About() {
                  >
                    leidos
                  </AnimatedLink>
-                {" "} and {" "}
-                <AnimatedLink href="https://club.knighthacks.org/">
+                , {" "}
+                <AnimatedLink href="https://www.cae.com/">
+                  cae
+                </AnimatedLink>
+                , {" "}
+                <AnimatedLink href="https://www.linkedin.com/company/gamesthatwork/">
+                  gamesthatwork
+                </AnimatedLink>
+                , {" "} and {" "}
+                <AnimatedLink href="https://2024.knighthacks.org/">
                   knighthacks
                 </AnimatedLink>
                 , and as a researcher for {" "}
@@ -53,9 +61,13 @@ export default function About() {
                 <AnimatedLink href="https://www.ocps.net">
                   ocps
                 </AnimatedLink>
-                , {" "} and {" "}
+                , {" "}
                 <AnimatedLink href="https://www.kellyservices.com/">
                   kelly
+                </AnimatedLink>
+                , {" "} and {" "}
+                <AnimatedLink href="https://itch.io/">
+                  itch.io
                 </AnimatedLink>
                 . i work on a wide range of things, such as large language models,
                 web development, and automation.
