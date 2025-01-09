@@ -17,13 +17,15 @@ const work = [
     name: "gamesthatwork",
     role: "software engineer intern",
     link: "https://www.linkedin.com/company/gamesthatwork/",
-    description: "current intern",
+    description: "machine learning algorithms for context-driven translation of user-facing strings.",
+    skills: "javascript, node.js, python, html, css"
   },
   {
     name: "cae",
     role: "software engineer intern",
     link: "https://www.cae.com/",
-    description: "currently working on the scars program",
+    description: "building devsecops pipelines with powershell and bash. also involved with sharepoint development.",
+    skills: "powershell, bash, devsecops, sharepoint"
   },
   {
     name: "ucf ece",
