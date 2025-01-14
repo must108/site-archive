@@ -30,6 +30,13 @@ const projects = [
     web: "https://devpost.com/software/insurify-zj2dh4"
   },
   {
+    name: "forge",
+    link: "https://github.com/KnightHacks/forge",
+    description: 
+      "comprehensive monorepository serving 4000+ aspiring software engineers and members of knighthacks.",
+    skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
+  },
+  {
     name: "facial detection tool",
     link: "https://github.com/must108/simple-face-recognition",
     description: "experimental computer vision powered application that detects faces in an uploaded image.",

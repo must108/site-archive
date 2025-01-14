@@ -46,7 +46,7 @@ const work = [
     role: "software engineer",
     link: "https://blade.knighthacks.org/",
     description: "worked on a multi-purpose discord bot, club/hackathon website, and a monorepository.",
-    skills: "typescript, discord.js, node.js, node-cron, sqlite, linux"
+    skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
   },
   {
     name: "darden",
