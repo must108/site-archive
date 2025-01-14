@@ -44,7 +44,7 @@ const work = [
   {
     name: "knighthacks",
     role: "software engineer",
-    link: "https://2024.knighthacks.org/",
+    link: "https://blade.knighthacks.org/",
     description: "worked on a multi-purpose discord bot, club/hackathon website, and a monorepository.",
     skills: "typescript, discord.js, node.js, node-cron, sqlite, linux"
   },
