@@ -33,7 +33,7 @@ export default function About() {
                    ucf
                  </AnimatedLink> 
                 . i work on a wide range of things, but i primarily specialize in 
-                machine learning and <br/> full-stack engineering. in my free time, 
+                machine learning and application engineering. in my free time, 
                 i enjoy algorithmic problem solving, speed-cubing, and playing chess.
              </p>
              <p className="text-white text-md">
