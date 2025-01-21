@@ -93,6 +93,13 @@ const projects = [
     web: "https://mustaeen.dev/",
   },
   {
+    name: "luis",
+    link: "https://github.com/must108/luis",
+    description: "small website for my friend",
+    skills: "next.js, react, typescript, tailwind",
+    web: "https://pokedbag.com/",
+  },
+  {
     name: "movie recommender",
     link: "https://github.com/must108/movie-recommend",
     description: "maching learning model that recommends movies to you!",
