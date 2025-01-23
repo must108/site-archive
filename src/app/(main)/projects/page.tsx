@@ -89,7 +89,7 @@ const projects = [
     name: "site",
     link: "https://github.com/must108/site",
     description: "this website! it was a lot of fun to make!",
-    skills: "next.js, react, typescript",
+    skills: "next.js, react, typescript, tailwind",
     web: "https://mustaeen.dev/",
   },
   {
