@@ -43,7 +43,7 @@ const work = [
   },
   {
     name: "knighthacks",
-    role: "software engineer",
+    role: "software engineer intern",
     link: "https://blade.knighthacks.org/",
     description: "worked on a multi-purpose discord bot, club/hackathon website, and a monorepository.",
     skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
@@ -64,7 +64,7 @@ const work = [
   },
   {
     name: "association for computing machinery",
-    role: "software engineer",
+    role: "software engineer intern",
     link: "https://www.acm.org/",
     description: "worked on an admin tool and api for acm's website. involved with backend engineering.",
     skills: "javascript, node.js, express.js, html, css, mongodb"
