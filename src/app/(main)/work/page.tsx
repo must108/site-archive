@@ -36,7 +36,7 @@ const work = [
   },
   {
     name: "ucf ece",
-    role: "machine learning researcher",
+    role: "machine learning research intern",
     link: "https://www.ece.ucf.edu/",
     description: "working with neural networks for reinforcement learning, implementing dynamic programming optimization methods.",
     skills: "python, neural networks"
