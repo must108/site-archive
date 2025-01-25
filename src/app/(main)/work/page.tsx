@@ -49,6 +49,13 @@ const work = [
     skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
   },
   {
+    name: "randstad",
+    role: "software engineer intern",
+    link: "https://www.randstadusa.com/",
+    description: "worked on automating and refining a lengthy ticketing process.",
+    skills: "python, java, javafx, opencv, scikit-learn, scikit-image"
+  },
+  {
     name: "darden",
     role: "software engineer intern",
     link: "https://www.darden.com/",
