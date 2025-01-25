@@ -52,7 +52,7 @@ const work = [
     name: "randstad",
     role: "software engineer intern",
     link: "https://www.randstadusa.com/",
-    description: "worked on automating and refining a lengthy ticketing process.",
+    description: "worked on automating and refining a lengthy service management process.",
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image"
   },
   {
