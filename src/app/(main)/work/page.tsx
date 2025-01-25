@@ -14,9 +14,9 @@ const work = [
     skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
-    name: "federal highway administration",
+    name: "u.s. department of transportation",
     role: "software engineer intern",
-    link: "https://highways.dot.gov/",
+    link: "https://www.transportation.gov/",
     description: "building applications to streamline operations for automation research vehicles.",
     skills: "amazon web services, react, vite"
   },
