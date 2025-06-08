@@ -7,6 +7,20 @@ import AnimatedLink from "@/components/AnimatedLink";
 
 const work = [
   {
+    name: "morgan stanley",
+    role: "software engineer intern",
+    link: "https://www.morganstanley.com",
+    description: "developing modern solutions for fixed income management",
+    skills: "angular, typescript, java",
+  },
+  {
+    name: "ideaflow",
+    role: "software engineer intern",
+    link: "https://ideaflow.app/",
+    description: "developing intelligent note-taking applications for information management",
+    skills: "next.js, react, typescript, postgresql, python",
+  },
+  {
     name: "leidos",
     role: "software engineer intern",
     link: "https://www.leidos.com/",
