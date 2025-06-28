@@ -10,8 +10,8 @@ const work = [
     name: "morgan stanley",
     role: "software engineer intern",
     link: "https://www.morganstanley.com",
-    description: "developing modern solutions for fixed income management",
-    skills: "angular, typescript, java",
+    description: "developing modern solutions for quantitative systems",
+    skills: "c, c++, python, angular, typescript, java",
   },
   {
     name: "ideaflow",
