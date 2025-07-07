@@ -11,7 +11,7 @@ const work = [
     role: "software engineer intern",
     link: "https://www.morganstanley.com",
     description: "developing modern solutions for quantitative systems",
-    skills: "c, c++, python, angular, typescript, java, intex deal modeling language",
+    skills: "c, c++, python, angular, typescript, java, spring boot, intex deal modeling language",
   },
   {
     name: "ideaflow",
