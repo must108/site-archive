@@ -58,6 +58,20 @@ const projects = [
     web: "https://naturalization-test.projects.mustaeen.dev/",
   },
   {
+    name: "squash",
+    link: "https://github.com/must108/squash",
+    description: "a small, simple, link shortening application.",
+    skills: "next.js, react, typescript, postgresql, node.js, express.js, docker, linux",
+    web: "https://squash.projects.mustaeen.dev",
+  },
+  {
+    name: "shapeshift",
+    link: "https://github.com/Lewin-B/shapeshift",
+    description: "a tool that converts 2d assets into 3d models/three.js code.",
+    skills: "next.js, react, typescript, three.js, mongo db, figma",
+    web: "https://www.we-shapeshift.tech/"
+  },
+  {
     name: "acm website",
     link: "https://github.com/acm-dev-website",
     description: "club website for the acm at ucf. my primary project while working with them as a software developer.",
