@@ -161,18 +161,18 @@ const projects = [
     description: "the first rendition of my personal website. leveraged a vector library to create a really cool effect.",
     skills: "html, css, javascript"
   },
-  // {
-  //   name: "r projects",
-  //   link: "https://github.com/must108/sta4163-projects",
-  //   description: "data science projects for sta4163, including variance testing, non-parametric testing, and linear regression.",
-  //   skills: "R"
-  // },
-  // {
-  //   name: "matplotlib art",
-  //   link: "https://github.com/must108/matplotlib-art",
-  //   description: "project which contains several scripts that generate cool data visualizations with matplotlib.",
-  //   skills: "python, matplotlib"
-  // },
+  {
+    name: "r projects",
+    link: "https://github.com/must108/sta4163-projects",
+    description: "data science projects for sta4163, including variance testing, non-parametric testing, and linear regression.",
+    skills: "R"
+  },
+  {
+    name: "matplotlib art",
+    link: "https://github.com/must108/matplotlib-art",
+    description: "project which contains several scripts that generate cool data visualizations with matplotlib.",
+    skills: "python, matplotlib"
+  },
   {
     name: "shiny projects",
     link: "https://github.com/must108/shiny",
@@ -185,31 +185,31 @@ const projects = [
     description: "gui auto clicker application which can achieve some crazy fast click speeds.",
     skills: "python, tkinter",
   },
-  // {
-  //   name: "weather app",
-  //   link: "https://github.com/must108/weather-app",
-  //   description: "weather application implementation with seamless transitions and animations.",
-  //   skills: "html, scss, javascript",
-  // },
-  // {
-  //   name: "tic-tac-toe",
-  //   link: "https://github.com/must108/tictactoe",
-  //   description: "basic web-based implementation of two player tic-tac-toe.",
-  //   skills: "html, css, javascript",
-  // },
-  // {
-  //   name: "to-do list",
-  //   link: "https://github.com/must108/todolist",
-  //   description: "can't be a developer without doing this at least once!",
-  //   skills: "html, scss, typescript",
-  // },
-  // {
-  //   name: "calculator",
-  //   link: "https://github.com/must108/calculator",
-  //   description: "basic implementation of a web-based calculator.",
-  //   skills: "html, css, javascript",
-  // },
-] // commented out to prevent loading up the page...
+  {
+    name: "weather app",
+    link: "https://github.com/must108/weather-app",
+    description: "weather application implementation with seamless transitions and animations.",
+    skills: "html, scss, javascript",
+  },
+  {
+    name: "tic-tac-toe",
+    link: "https://github.com/must108/tictactoe",
+    description: "basic web-based implementation of two player tic-tac-toe.",
+    skills: "html, css, javascript",
+  },
+  {
+    name: "to-do list",
+    link: "https://github.com/must108/todolist",
+    description: "can't be a developer without doing this at least once!",
+    skills: "html, scss, typescript",
+  },
+  {
+    name: "calculator",
+    link: "https://github.com/must108/calculator",
+    description: "basic implementation of a web-based calculator.",
+    skills: "html, css, javascript",
+  },
+];
 
 export default function Projects() {
     useEffect(() => {
