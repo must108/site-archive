@@ -8,6 +8,19 @@ import ExtLink from "@/components/ExtLink";
 
 const projects = [
   {
+    name: "forge",
+    link: "https://github.com/KnightHacks/forge",
+    description: 
+      "comprehensive monorepository serving 4000+ aspiring software engineers and members of knighthacks.",
+    skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
+  },
+  {
+    name: "port community information sharing system",
+    link: "https://github.com/usdot-fhwa-OPS/pcis-poc",
+    description: "seaport management system developed for the u.s. department of transportation.",
+    skills: "vite, aws, typescript, react, tailwind css, amazon s3, dynamodb, aws lambda, restful apis"
+  },
+  {
     name: "naavis",
     link: "https://github.com/naavis-app/app",
     description: "cross platform web/mobile application that aims to bring free location sharing and device tracking to all.",
@@ -22,19 +35,18 @@ const projects = [
     web: "https://devpost.com/software/guitar-o3gw19"
   }, 
   {
+    name: "sidebar assistant",
+    link: "https://github.com/IdeaFlowCo/url-chatgpt-helper",
+    description: "small gpt-powered sidebar extension for ideaflow, inc.",
+    skills: "vite, typescript, react, tailwind css, supabase, edge functions"
+  },
+  {
     name: "insurify",
     link: "https://github.com/noahgerard/insurify",
     description: 
     "a multi-purpose insurance tool that classifies car damage based on an image and a few questions, and delivers a reliable quote.",
     skills: "python, flask, opencv, next.js, react, typescript, postgresql, prisma, tailwind css, docker, restful apis",
     web: "https://devpost.com/software/insurify-zj2dh4"
-  },
-  {
-    name: "forge",
-    link: "https://github.com/KnightHacks/forge",
-    description: 
-      "comprehensive monorepository serving 4000+ aspiring software engineers and members of knighthacks.",
-    skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
   },
   {
     name: "facial detection tool",
@@ -84,6 +96,12 @@ const projects = [
     description: "developed features of an advanced utility discord bot for hack@ucf's horse plinko competition.",
     skills: "javascript, discord.js, node.js, restful apis",
     web: "https://plinko.horse/",
+  },
+  {
+    name: "mustbot",
+    link: "https://github.com/must108/mustbot",
+    description: "my personal discord bot.",
+    skills: "typescript, discord.js, node.js, node-cron, postgresql, linux, restful apis",
   },
   {
     name: "multi-wordle",
