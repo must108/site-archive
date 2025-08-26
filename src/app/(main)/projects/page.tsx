@@ -180,6 +180,12 @@ const projects = [
     skills: "html, css, javascript"
   },
   {
+    name: "applied r projects",
+    link: "https://github.com/must108/sta4164",
+    description: "applied data science projects for sta4164, including anovas, linear/logistic regression, and time-series analysis.",
+    skills: "R"
+  },
+  {
     name: "r projects",
     link: "https://github.com/must108/sta4163-projects",
     description: "data science projects for sta4163, including variance testing, non-parametric testing, and linear regression.",
