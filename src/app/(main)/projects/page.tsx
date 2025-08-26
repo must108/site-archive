@@ -144,6 +144,12 @@ const projects = [
     skills: "python, jupyter notebook, pandas"
   },
   {
+    name: "graphics projects",
+    link: "https://github.com/must108/cap4720",
+    description: "a collection of graphics programming projects developed while taking cap4720",
+    skills: "python, jupyter notebook, c, c++, glsl",
+  },
+  {
     name: "ml projects",
     link: "https://github.com/must108/ml-projects",
     description: "a collection of projects i've worked on while studying machine learning.",
