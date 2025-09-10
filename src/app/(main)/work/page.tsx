@@ -15,7 +15,7 @@ const work = [
   },
   {
     name: "ideaflow",
-    role: "software engineer intern",
+    role: "software engineer",
     link: "https://ideaflow.app/",
     description: "developing intelligent note-taking applications for information management",
     skills: "next.js, react, typescript, postgresql, python",
@@ -57,7 +57,7 @@ const work = [
   },
   {
     name: "knighthacks",
-    role: "software engineer intern",
+    role: "software engineer",
     link: "https://blade.knighthacks.org/",
     description: "worked on a multi-purpose discord bot, club/hackathon website, and a monorepository.",
     skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
@@ -78,14 +78,14 @@ const work = [
   },
   {
     name: "hack@ucf",
-    role: "software developer",
+    role: "software engineer",
     link: "https://www.hackucf.org/",
     description: "worked on a discord bot for hack@ucf's horse plinko competition.",
     skills: "javascript, discord.js, node.js"
   },
   {
     name: "association for computing machinery",
-    role: "software engineer intern",
+    role: "software engineer",
     link: "https://www.acm.org/",
     description: "worked on an admin tool and api for acm's website. involved with backend engineering.",
     skills: "javascript, node.js, express.js, html, css, mongodb"
