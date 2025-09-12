@@ -47,6 +47,7 @@ import {
     SiPytorch,
     SiDocker,
     SiJira,
+    SiOpengl,
 } from 'react-icons/si';
 
 import {
@@ -76,6 +77,7 @@ export default function Tech() {
                         <SiGo size={24} title="Go" />
                         <SiHtml5 size={24} title="HTML" />
                         <SiCss3 size={24} title="CSS" />
+                        <SiOpengl size={24} title="OpenGL" />
                     </Icons>
                     <Icons title="packages">
                         <SiScikitlearn size={24} title="scikit-learn" />
