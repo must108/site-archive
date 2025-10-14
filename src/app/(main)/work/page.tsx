@@ -7,108 +7,155 @@ import AnimatedLink from "@/components/AnimatedLink";
 
 const work = [
   {
+    name: "naval education and training command",
+    role: "machine learning engineer intern",
+    timeline: "sep 2025 - present",
+    link: "https://www.netc.navy.mil/",
+    description: "synthetic data for pilots",
+    skills: "python, pytorch, hugging face, diffusion models, generative ai",
+  },
+  {
+    name: "intelligent agents lab",
+    role: "machine learning engineer intern",
+    timeline: "sep 2025 - present",
+    link: "https://ial.eecs.ucf.edu/",
+    description: "researching social agents",
+    skills: "python, pytorch, hugging face"
+  },
+  {
+    name: "ucf medicine",
+    role: "software engineer intern",
+    timeline: "sep 2025 - present",
+    link: "https://med.ucf.edu/aerospace-medicine/",
+    description: "ucf's aerospace medicine program",
+    skills: "c#, unity, cesium"
+  },
+  {
+    name: "varlab",
+    role: "software engineer intern",
+    timeline: "sep 2025 - present",
+    link: "https://varlab.cs.ucf.edu/",
+    description: "building simulations for ucf ist",
+    skills: "c#, unity"
+  },
+  {
     name: "morgan stanley",
     role: "software engineer intern",
+    timeline: "jun 2025 - aug 2025",
     link: "https://www.morganstanley.com",
-    description: "developing modern solutions for quantitative systems",
+    description: "risk management infra",
     skills: "c, c++, python, angular, typescript, java, spring boot, grafana, intex deal modeling language",
   },
   {
     name: "ideaflow",
     role: "software engineer",
+    timeline: "mar 2025 - present",
     link: "https://ideaflow.app/",
-    description: "developing intelligent note-taking applications for information management",
+    description: "making a shared brain for humanity",
     skills: "next.js, react, typescript, postgresql, python",
-  },
-  {
-    name: "leidos",
-    role: "software engineer intern",
-    link: "https://www.leidos.com/",
-    description: "working with LLMs and VLMs to improve spatial intelligence within artificial intelligence.",
-    skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
     name: "u.s. department of transportation",
     role: "software engineer intern",
+    timeline: "jan 2025 - mar 2025",
     link: "https://www.transportation.gov/",
-    description: "building applications to streamline operations for automation research vehicles.",
+    description: "connecting/automating transportation processes",
     skills: "amazon web services, react, vite"
-  },
-  {
-    name: "gamesthatwork",
-    role: "software engineer intern",
-    link: "https://www.linkedin.com/company/gamesthatwork/",
-    description: "machine learning algorithms for context-driven translation of user-facing strings.",
-    skills: "javascript, node.js, python, html, css"
   },
   {
     name: "cae",
     role: "software engineer intern",
+    timeline: "dec 2024 - mar 2025",
     link: "https://www.cae.com/",
-    description: "building devsecops pipelines with powershell and bash. also involved with sharepoint development.",
+    description: "devsecops and frontend for usaf scars",
     skills: "powershell, bash, devsecops, sharepoint"
   },
   {
+    name: "gamesthatwork",
+    role: "software engineer intern",
+    timeline: "dec 2024 - mar 2025", 
+    link: "https://www.linkedin.com/company/gamesthatwork/",
+    description: "context-driven, embedded translation for games",
+    skills: "javascript, node.js, python, html, css"
+  },
+  {
     name: "ucf ece",
-    role: "machine learning research intern",
+    role: "machine learning engineer intern",
+    timeline: "nov 2024 - feb 2025", 
     link: "https://www.ece.ucf.edu/",
-    description: "working with neural networks for reinforcement learning, implementing dynamic programming optimization methods.",
+    description: "reinforcement learning for robotics",
     skills: "python, neural networks"
   },
   {
-    name: "knighthacks",
-    role: "software engineer",
-    link: "https://blade.knighthacks.org/",
-    description: "worked on a multi-purpose discord bot, club/hackathon website, and a monorepository.",
-    skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
+    name: "leidos",
+    role: "software engineer intern",
+    timeline: "sep 2024 - may 2025",
+    link: "https://www.leidos.com/",
+    description: "spatial intelligence for advanced decision making",
+    skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
     name: "randstad",
     role: "software engineer intern",
+    timeline: "aug 2024 - nov 2024",
     link: "https://www.randstadusa.com/",
-    description: "worked on automating and refining a lengthy service management process.",
+    description: "employee onboarding automation scripting",
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image"
+  },
+  {
+    name: "knighthacks",
+    role: "software engineer",
+    timeline: "jul 2024 - present",
+    link: "https://blade.knighthacks.org/",
+    description: "software for ucf's largest software engineering club",
+    skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
   },
   {
     name: "darden",
     role: "software engineer intern",
+    timeline: "jun 2024 - nov 2024",
     link: "https://www.darden.com/",
-    description: "worked on automating employee workflows. also involved with application development and data analysis.",
+    description: "telecommunications automation scripting",
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
-  },
-  {
-    name: "hack@ucf",
-    role: "software engineer",
-    link: "https://www.hackucf.org/",
-    description: "worked on a discord bot for hack@ucf's horse plinko competition.",
-    skills: "javascript, discord.js, node.js"
   },
   {
     name: "association for computing machinery",
     role: "software engineer",
+    timeline: "jan 2024 - may 2024",
     link: "https://www.acm.org/",
-    description: "worked on an admin tool and api for acm's website. involved with backend engineering.",
+    description: "admin tooling for acm's website",
     skills: "javascript, node.js, express.js, html, css, mongodb"
   },
   {
     name: "orange county public schools",
     role: "software engineer intern",
+    timeline: "aug 2022 - aug 2023",
     link: "https://www.ocps.net/",
-    description: "worked on automation scripting with powershell. also involved with data analytics and software troubleshooting.",
+    description: "tech support/helpdesk automation scripting",
     skills: "powershell, java, vba, operating systems, microsoft excel"
+  },
+  {
+    name: "tabs chocolate",
+    role: "software engineer intern",
+    timeline: "feb 2023 - jun 2023",
+    link: "https://tabs.co",
+    description: "optimizing affiliate marketing",
+    skills: "python"
   },
   {
     name: "kelly",
     role: "software engineer intern",
+    timeline: "jun 2022 - aug 2022",
     link: "https://www.kellyservices.com/",
-    description: "worked on sys admin automation scripting with powershell. also involved with software troubleshooting.",
+    description: "sysadmin automation scripting",
     skills: "powershell, operating systems, microsoft excel"
   },
   {
     name: "itch.io",
     role: "software engineer intern",
+    timeline: "may 2021 - may 2022",
     link: "https://itch.io/",
-    description: "built several games with c++, html, css, and js.",
+    description: "desktop and mobile game dev",
     skills: "c++, html, css, javascript"
   }
 ];
@@ -145,6 +192,9 @@ export default function Work() {
                   </AnimatedLink>
                   <p className="text-xs text-[#999]"
                   >{place.role}</p>
+                  <p className='text-xs text-[#999]'>
+                    {place.timeline}
+                  </p> 
                   <p className="text-white text-sm pt-3">
                     {place.description}
                   </p>
