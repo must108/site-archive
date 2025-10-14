@@ -7,6 +7,14 @@ import AnimatedLink from "@/components/AnimatedLink";
 
 const work = [
   {
+    name: "simplify",
+    role: "campus ambassador",
+    timeline: "oct 2025 - present",
+    link: "https://simplify.jobs/",
+    description: "growing automated job applications",
+    skills: "getting out, touching grass, talking to people, outreach"
+  },
+  {
     name: "naval education and training command",
     role: "machine learning engineer intern",
     timeline: "sep 2025 - present",
@@ -79,10 +87,10 @@ const work = [
     skills: "javascript, node.js, python, html, css"
   },
   {
-    name: "ucf ece",
+    name: "ucf robotics lab",
     role: "machine learning engineer intern",
     timeline: "nov 2024 - feb 2025", 
-    link: "https://www.ece.ucf.edu/",
+    link: "https://www.ece.ucf.edu/~qu/labs/ece-robotics-lab/",
     description: "reinforcement learning for robotics",
     skills: "python, neural networks"
   },
@@ -103,10 +111,10 @@ const work = [
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image"
   },
   {
-    name: "knighthacks",
+    name: "knight hacks",
     role: "software engineer",
     timeline: "jul 2024 - present",
-    link: "https://blade.knighthacks.org/",
+    link: "https://2025.knighthacks.org/",
     description: "software for ucf's largest software engineering club",
     skills: "typescript, next.js, postgresql, turborepo, trpc, amazon s3, linux"
   },
