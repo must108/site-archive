@@ -57,7 +57,7 @@ const work = [
   {
     name: "ideaflow",
     role: "software engineer",
-    timeline: "mar 2025 - present",
+    timeline: "mar 2025 - oct 2025",
     link: "https://ideaflow.app/",
     description: "making a shared brain for humanity",
     skills: "next.js, react, typescript, postgresql, python",
