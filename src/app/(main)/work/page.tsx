@@ -79,7 +79,7 @@ const work = [
     skills: "powershell, bash, devsecops, sharepoint"
   },
   {
-    name: "gamesthatwork",
+    name: "gtw",
     role: "software engineer intern",
     timeline: "dec 2024 - mar 2025", 
     link: "https://www.linkedin.com/company/gamesthatwork/",
@@ -141,14 +141,6 @@ const work = [
     link: "https://www.ocps.net/",
     description: "tech support/helpdesk automation scripting",
     skills: "powershell, java, vba, operating systems, microsoft excel"
-  },
-  {
-    name: "tabs chocolate",
-    role: "software engineer intern",
-    timeline: "feb 2023 - jun 2023",
-    link: "https://tabs.co",
-    description: "optimizing affiliate marketing",
-    skills: "python"
   },
   {
     name: "kelly",
