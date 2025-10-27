@@ -35,6 +35,27 @@ const projects = [
     web: "https://devpost.com/software/guitar-o3gw19"
   }, 
   {
+    name: "agentnow",
+    link: "https://github.com/must108/agentnow",
+    description: "a web app that assists enterprise customers in buying saas products. won 2nd place for servicenow's agentic ai challenge at knight hacks 2025.",
+    skills: "next.js, react, typescript, google cloud, python, fastapi, eleven labs, rag, machine learning",
+    web: "https://devpost.com/software/agentnow"
+  },
+  {
+    name: "idea whiteboard",
+    link: "https://github.com/must108/cf_ai_idea_whiteboard",
+    description: "ai-powered whiteboarding app built with cloudflare.",
+    skills: "next.js, react, typescript, cloudflare workers, cloudflare workers ai, cloudflare durable objects",
+    web: "https://idea-whiteboard.mustaeen18-b19.workers.dev/"
+  },
+  {
+    name: "cAReeropoly",
+    link: "https://github.com/must108/cAReeropoly",
+    description: "an educational mixed reality application to help kids learn about career tracks with monopoly.",
+    skills: "c#, c++, unity, meta sdk, networking",
+    web: "https://devpost.com/software/shapeshift-o2yh0w"
+  },
+  {
     name: "sidebar assistant",
     link: "https://github.com/IdeaFlowCo/url-chatgpt-helper",
     description: "small gpt-powered sidebar extension for ideaflow, inc.",
@@ -75,6 +96,12 @@ const projects = [
     description: "a small, simple, link shortening application.",
     skills: "next.js, react, typescript, postgresql, node.js, express.js, docker, linux",
     web: "https://squash.projects.mustaeen.dev",
+  },
+  {
+    name: "mustbot",
+    link: "https://github.com/must108/mustbot",
+    description: "my personal discord bot",
+    skills: "typescript, discord.js, node.js, node-cron, linux, restful apis",
   },
   {
     name: "shapeshift",
