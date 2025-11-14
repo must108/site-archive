@@ -70,6 +70,12 @@ const projects = [
     web: "https://devpost.com/software/insurify-zj2dh4"
   },
   {
+    name: "apex residential finance",
+    link: "https://github.com/tomiwaaluko/mortgage-app",
+    description: "a tool to help mortgage loan officers handle claims better.",
+    skills: "react, vite, node.js, express.js, mongodb, typescript, restful apis, tailwind css"
+  },
+  {
     name: "facial detection tool",
     link: "https://github.com/must108/simple-face-recognition",
     description: "experimental computer vision powered application that detects faces in an uploaded image.",
