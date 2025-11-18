@@ -17,7 +17,7 @@ const work = [
   {
     name: "naval education and training command",
     role: "machine learning engineer intern",
-    timeline: "sep 2025 - present",
+    timeline: "sep 2025 - nov 2025",
     link: "https://www.netc.navy.mil/",
     description: "synthetic data for pilots",
     skills: "python, pytorch, hugging face, diffusion models, generative ai",
@@ -25,7 +25,7 @@ const work = [
   {
     name: "intelligent agents lab",
     role: "machine learning engineer intern",
-    timeline: "sep 2025 - present",
+    timeline: "sep 2025 - nov 2025",
     link: "https://ial.eecs.ucf.edu/",
     description: "researching social agents",
     skills: "python, pytorch, hugging face"
