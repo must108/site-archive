@@ -7,6 +7,13 @@ import AnimatedLink from "@/components/AnimatedLink";
 
 const work = [
   {
+    name: "handshake",
+    role: "software engineer intern",
+    timeline: "nov 2025 - present",
+    link: "https://joinhandshake.com/",
+    description: "multimodal ai optimization",
+  },
+  {
     name: "simplify",
     role: "campus ambassador",
     timeline: "oct 2025 - present",
@@ -19,7 +26,7 @@ const work = [
     role: "machine learning engineer intern",
     timeline: "sep 2025 - nov 2025",
     link: "https://www.netc.navy.mil/",
-    description: "synthetic data for pilots",
+    description: "synthetic data generation for pilots",
     skills: "python, pytorch, hugging face, diffusion models, generative ai",
   },
   {
@@ -27,7 +34,7 @@ const work = [
     role: "machine learning engineer intern",
     timeline: "sep 2025 - nov 2025",
     link: "https://ial.eecs.ucf.edu/",
-    description: "researching social agents",
+    description: "data-driven social informatics",
     skills: "python, pytorch, hugging face"
   },
   {
@@ -35,7 +42,7 @@ const work = [
     role: "software engineer intern",
     timeline: "sep 2025 - present",
     link: "https://med.ucf.edu/aerospace-medicine/",
-    description: "ucf's aerospace medicine program",
+    description: "digital twins for ucf's aerospace medicine program",
     skills: "c#, unity, cesium"
   },
   {
@@ -43,7 +50,7 @@ const work = [
     role: "software engineer intern",
     timeline: "sep 2025 - present",
     link: "https://varlab.cs.ucf.edu/",
-    description: "building simulations for ucf ist",
+    description: "researching cutting-edge vr",
     skills: "c#, unity"
   },
   {
@@ -172,15 +179,10 @@ export default function Work() {
       className="max-w-screen-sm page-transition p-4 mb-40 sm:mb-0">
         <Metadata title="Work" description="Mustaeen Ahmed's work experience as a software engineer." />
         <h1
-        className="flex text-white font-bold mx-auto text-3xl pb-5"
+        className="flex text-white font-bold mx-auto text-3xl"
         >
           work
         </h1>
-        <p className="text-white text-sm">
-          i&apos;m very passionate about contributing to software
-          in businesses and other organizations. here are some of my 
-          experiences doing just that!
-        </p>
         <hr className="my-6 border-[#404040]"/>
         {work.map((place, _) => (
             <>

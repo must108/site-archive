@@ -284,15 +284,10 @@ export default function Projects() {
       <section id="page" className="max-w-screen-sm page-transition p-4 mb-40 sm:mb-0">
         <Metadata title="Projects" description="Mustaeen Ahmed's projects he has built as a software engineer." />
         <h1
-        className="flex text-white font-bold mx-auto text-3xl pb-5"
+        className="flex text-white font-bold mx-auto text-3xl"
         >
           projects
         </h1>
-        <p className="text-white text-sm"
-        >
-          i&apos;m most passionate about building software, and working on projects
-          allows me to do just that. here are some notable ones!
-        </p>
         <hr className="my-6 font-medium border-[#404040]"/>
         {projects.map((project, _) => (
           <>
