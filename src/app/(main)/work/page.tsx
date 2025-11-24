@@ -12,6 +12,7 @@ const work = [
     timeline: "nov 2025 - present",
     link: "https://joinhandshake.com/",
     description: "multimodal ai optimization",
+    skills: "python, langchain, pytorch, diffusion models, generative ai"
   },
   {
     name: "simplify",
