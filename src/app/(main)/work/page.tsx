@@ -56,7 +56,7 @@ const work = [
   },
   {
     name: "morgan stanley",
-    role: "software engineer intern",
+    role: "quantitative software engineer intern",
     timeline: "jun 2025 - aug 2025",
     link: "https://www.morganstanley.com",
     description: "residential mortgage-backed securities",
