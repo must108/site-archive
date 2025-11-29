@@ -59,7 +59,7 @@ const work = [
     role: "software engineer intern",
     timeline: "jun 2025 - aug 2025",
     link: "https://www.morganstanley.com",
-    description: "risk management infra",
+    description: "residential mortgage-backed securities",
     skills: "c, c++, python, angular, typescript, java, spring boot, grafana, intex deal modeling language",
   },
   {
