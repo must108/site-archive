@@ -1,7 +1,6 @@
 import React from "react";
 import { BsGithub, BsDiscord, BsLinkedin } from 'react-icons/bs';
 import Resume from './ResumeSymbol';
-import { IconType } from 'react-icons';
 
 export default function Buttons() {
     return (
