@@ -31,23 +31,7 @@ const work = [
     skills: "python, pytorch, hugging face, diffusion models, generative ai",
   },
   {
-    name: "intelligent agents lab",
-    role: "machine learning engineer intern",
-    timeline: "sep 2025 - nov 2025",
-    link: "https://ial.eecs.ucf.edu/",
-    description: "data-driven social informatics",
-    skills: "python, pytorch, hugging face"
-  },
-  {
-    name: "ucf medicine",
-    role: "software engineer intern",
-    timeline: "sep 2025 - present",
-    link: "https://med.ucf.edu/aerospace-medicine/",
-    description: "digital twins for ucf's aerospace medicine program",
-    skills: "c#, unity, cesium"
-  },
-  {
-    name: "varlab",
+    name: "institute for simulation & training",
     role: "software engineer intern",
     timeline: "sep 2025 - present",
     link: "https://varlab.cs.ucf.edu/",
@@ -64,8 +48,8 @@ const work = [
   },
   {
     name: "ideaflow",
-    role: "software engineer",
-    timeline: "mar 2025 - oct 2025",
+    role: "software engineer intern",
+    timeline: "mar 2025 - may 2025",
     link: "https://ideaflow.app/",
     description: "making a shared brain for humanity",
     skills: "next.js, react, typescript, postgresql, python",
@@ -81,18 +65,10 @@ const work = [
   {
     name: "cae",
     role: "software engineer intern",
-    timeline: "dec 2024 - mar 2025",
+    timeline: "dec 2024 - feb 2025",
     link: "https://www.cae.com/",
     description: "devsecops and frontend for usaf scars",
     skills: "powershell, bash, devsecops, sharepoint"
-  },
-  {
-    name: "gtw",
-    role: "software engineer intern",
-    timeline: "dec 2024 - mar 2025", 
-    link: "https://www.linkedin.com/company/gamesthatwork/",
-    description: "context-driven, embedded translation for games",
-    skills: "javascript, node.js, python, html, css"
   },
   {
     name: "ucf robotics lab",
@@ -111,14 +87,6 @@ const work = [
     skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
   },
   {
-    name: "randstad",
-    role: "software engineer intern",
-    timeline: "aug 2024 - nov 2024",
-    link: "https://www.randstadusa.com/",
-    description: "employee onboarding automation scripting",
-    skills: "python, java, javafx, opencv, scikit-learn, scikit-image"
-  },
-  {
     name: "knight hacks",
     role: "software engineer",
     timeline: "jul 2024 - present",
@@ -135,37 +103,13 @@ const work = [
     skills: "python, java, javafx, opencv, scikit-learn, scikit-image, pytesseract, pandas, numpy, matplotlib, yaml"
   },
   {
-    name: "association for computing machinery",
-    role: "software engineer",
-    timeline: "jan 2024 - may 2024",
-    link: "https://www.acm.org/",
-    description: "admin tooling for acm's website",
-    skills: "javascript, node.js, express.js, html, css, mongodb"
-  },
-  {
     name: "orange county public schools",
     role: "software engineer intern",
-    timeline: "aug 2022 - aug 2023",
+    timeline: "jun 2022 - may 2023",
     link: "https://www.ocps.net/",
     description: "tech support/helpdesk automation scripting",
     skills: "powershell, java, vba, operating systems, microsoft excel"
   },
-  {
-    name: "kelly",
-    role: "software engineer intern",
-    timeline: "jun 2022 - aug 2022",
-    link: "https://www.kellyservices.com/",
-    description: "sysadmin automation scripting",
-    skills: "powershell, operating systems, microsoft excel"
-  },
-  {
-    name: "itch.io",
-    role: "software engineer intern",
-    timeline: "may 2021 - may 2022",
-    link: "https://itch.io/",
-    description: "desktop and mobile game dev",
-    skills: "c++, html, css, javascript"
-  }
 ];
 
 export default function Work() {
