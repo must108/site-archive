@@ -81,7 +81,7 @@ const work = [
   {
     name: "leidos",
     role: "software engineer intern",
-    timeline: "sep 2024 - may 2025",
+    timeline: "sep 2024 - dec 2024",
     link: "https://www.leidos.com/",
     description: "spatial intelligence for advanced decision making",
     skills: "python, pandas, LLMs, VLMs, agile/scrum, jira, aws ec2, jupyter notebook, gitlab",
