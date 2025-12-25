@@ -71,10 +71,10 @@ const work = [
     skills: "powershell, bash, devsecops, sharepoint"
   },
   {
-    name: "ucf robotics lab",
+    name: "national science foundation",
     role: "machine learning engineer intern",
     timeline: "nov 2024 - feb 2025", 
-    link: "https://www.ece.ucf.edu/~qu/labs/ece-robotics-lab/",
+    link: "https://www.nsf.gov/",
     description: "reinforcement learning for robotics",
     skills: "python, neural networks"
   },
