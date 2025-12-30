@@ -7,12 +7,26 @@ import AnimatedLink from "@/components/AnimatedLink";
 
 const work = [
   {
+    name: "cloudflare",
+    role: "software engineer intern",
+    timeline: "jan 2026 - present",
+    link: "https://www.cloudflare.com/",
+    description: "cloudflare containers",
+  },
+  {
     name: "handshake",
     role: "software engineer intern",
     timeline: "nov 2025 - present",
     link: "https://joinhandshake.com/",
     description: "multimodal ai optimization",
     skills: "python, langchain, pytorch, diffusion models, generative ai"
+  },
+  {
+    name: "oak ridge national laboratory",
+    role: "software engineer intern",
+    timeline: "nov 2025 - present",
+    link: "https://www.ornl.gov/",
+    description: "quantum data processing"
   },
   {
     name: "simplify",
