@@ -16,7 +16,7 @@ const work = [
   {
     name: "handshake",
     role: "software engineer intern",
-    timeline: "nov 2025 - present",
+    timeline: "nov 2025 - jan 2026",
     link: "https://joinhandshake.com/",
     description: "multimodal ai optimization",
     skills: "python, langchain, pytorch, diffusion models, generative ai"
@@ -24,14 +24,14 @@ const work = [
   {
     name: "oak ridge national laboratory",
     role: "software engineer intern",
-    timeline: "nov 2025 - present",
+    timeline: "nov 2025 - jan 2026",
     link: "https://www.ornl.gov/",
     description: "quantum data processing"
   },
   {
     name: "simplify",
     role: "campus ambassador",
-    timeline: "oct 2025 - present",
+    timeline: "oct 2025 - jan 2026",
     link: "https://simplify.jobs/",
     description: "growing automated job applications",
     skills: "getting out, touching grass, talking to people, outreach"
@@ -47,7 +47,7 @@ const work = [
   {
     name: "institute for simulation & training",
     role: "software engineer intern",
-    timeline: "sep 2025 - present",
+    timeline: "sep 2025 - jan 2026",
     link: "https://varlab.cs.ucf.edu/",
     description: "researching cutting-edge vr",
     skills: "c#, unity"
