@@ -26,7 +26,8 @@ const work = [
     role: "software engineer intern",
     timeline: "nov 2025 - jan 2026",
     link: "https://www.ornl.gov/",
-    description: "quantum data processing"
+    description: "quantum data processing",
+    skills: "python, ibm qiskit, next.js, react, typescript, fastapi, docker, linux"
   },
   {
     name: "simplify",
