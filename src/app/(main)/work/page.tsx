@@ -120,10 +120,18 @@ const work = [
   {
     name: "orange county public schools",
     role: "software engineer intern",
-    timeline: "jun 2022 - may 2023",
+    timeline: "aug 2022 - may 2023",
     link: "https://www.ocps.net/",
-    description: "tech support/helpdesk automation scripting",
+    description: "tech support automation scripting",
     skills: "powershell, java, vba, operating systems, microsoft excel"
+  },
+  {
+    name: "orange technical college",
+    role: "software engineer intern",
+    timeline: "jun 2022 - aug 2022",
+    link: "https://www.orangetechcollege.net/",
+    description: "helpdesk automation scripting",
+    skills: "powershell, vba, operating systems, microsoft excel"
   },
 ];
 
