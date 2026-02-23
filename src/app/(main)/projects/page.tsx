@@ -155,7 +155,7 @@ const projects = [
     link: "https://github.com/must108/site",
     description: "this website! it was a lot of fun to make!",
     skills: "next.js, react, typescript, tailwind",
-    web: "https://mustaeen.dev/",
+    web: "https://site-archive.mustaeen.dev",
   },
   {
     name: "luis",

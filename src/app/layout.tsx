@@ -28,10 +28,10 @@ export const metadata: Metadata = {
     title: "Mustaeen Ahmed",
     description:
       "Mustaeen Ahmed is a software engineer and a student at the University of Central Florida.",
-    url: "https://mustaeen.dev",
+    url: "https://site-archive.mustaeen.dev",
     images: [{ url: "opengraph-image.jpg"}]
   },
-  metadataBase: new URL('https://mustaeen.dev'),
+  metadataBase: new URL('https://site-archive.mustaeen.dev'),
 };
 
 export const viewport: Viewport = {

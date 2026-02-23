@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: "/",
             disallow: [ "/private/", "/api/" ],
         },
-        sitemap: "https://www.mustaeen.dev/sitemap.xml"
+        sitemap: "https://www.site-archive.mustaeen.dev/sitemap.xml"
     };
 }
